@@ -1,0 +1,1765 @@
+Feb 18 03:45:01 2526126-co44688 rsyslogd[1057]: [origin software="rsyslogd" swVersion="8.2102.0-15.el8" x-pid="1057" x-info="https://www.rsyslog.com"] rsyslogd was HUPed
+Feb 18 04:10:29 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 04:10:30 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 179265
+Feb 18 04:10:30 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 04:10:31 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 179267
+Feb 18 04:22:05 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 18 04:22:07 2526126-co44688 dnf[179298]: CentOS Stream 8 - AppStream                     3.4 kB/s | 4.4 kB     00:01
+Feb 18 04:22:07 2526126-co44688 dnf[179298]: CentOS Stream 8 - BaseOS                         11 kB/s | 3.9 kB     00:00
+Feb 18 04:22:07 2526126-co44688 dnf[179298]: CentOS Stream 8 - Extras                         11 kB/s | 2.9 kB     00:00
+Feb 18 04:22:08 2526126-co44688 dnf[179298]: CentOS Stream 8 - Extras common packages        9.5 kB/s | 3.0 kB     00:00
+Feb 18 04:22:08 2526126-co44688 dnf[179298]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 18 04:22:08 2526126-co44688 dnf[179298]: Zabbix Agent From Timeweb                       426 kB/s | 2.9 kB     00:00
+Feb 18 04:22:10 2526126-co44688 dnf[179298]: Metadata cache created.
+Feb 18 04:22:10 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 18 04:22:10 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 18 05:00:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 05:00:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 179503
+Feb 18 05:00:26 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 05:00:27 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 179505
+Feb 18 05:52:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 18 05:52:23 2526126-co44688 dnf[179632]: Metadata cache refreshed recently.
+Feb 18 05:52:23 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 18 05:52:23 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 18 05:59:37 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 05:59:38 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 179646
+Feb 18 05:59:38 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 05:59:39 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 179648
+Feb 18 06:40:36 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 06:40:37 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 179739
+Feb 18 06:40:37 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 06:40:38 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 179741
+Feb 18 07:30:28 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 07:30:29 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 179849
+Feb 18 07:30:29 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 07:30:30 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 179851
+Feb 18 07:50:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 18 07:50:23 2526126-co44688 dnf[179890]: CentOS Stream 8 - AppStream                      21 kB/s | 4.4 kB     00:00
+Feb 18 07:50:24 2526126-co44688 dnf[179890]: CentOS Stream 8 - BaseOS                         35 kB/s | 3.9 kB     00:00
+Feb 18 07:50:24 2526126-co44688 dnf[179890]: CentOS Stream 8 - Extras                         27 kB/s | 2.9 kB     00:00
+Feb 18 07:50:26 2526126-co44688 dnf[179890]: CentOS Stream 8 - Extras common packages        1.5 kB/s | 3.0 kB     00:01
+Feb 18 07:50:26 2526126-co44688 dnf[179890]: packages for the GitHub CLI                      28 kB/s | 3.0 kB     00:00
+Feb 18 07:50:26 2526126-co44688 dnf[179890]: Zabbix Agent From Timeweb                       516 kB/s | 2.9 kB     00:00
+Feb 18 07:50:27 2526126-co44688 dnf[179890]: Metadata cache created.
+Feb 18 07:50:28 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 18 07:50:28 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 18 08:20:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 08:20:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 180062
+Feb 18 08:20:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 08:20:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 180064
+Feb 18 08:34:51 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 18 09:10:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 09:10:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 180911
+Feb 18 09:10:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 09:10:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 180913
+Feb 18 09:28:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 18 09:28:23 2526126-co44688 dnf[180955]: Metadata cache refreshed recently.
+Feb 18 09:28:23 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 18 09:28:23 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 18 09:59:46 2526126-co44688 dhclient[771]: DHCPREQUEST on ens3 to 169.254.169.254 port 67 (xid=0x2b37166b)
+Feb 18 09:59:46 2526126-co44688 dhclient[771]: DHCPACK from 169.254.169.254 (xid=0x2b37166b)
+Feb 18 09:59:46 2526126-co44688 NetworkManager[681]: <info>  [1708239586.1947] dhcp4 (ens3):   address 89.223.124.90
+Feb 18 09:59:46 2526126-co44688 NetworkManager[681]: <info>  [1708239586.1947] dhcp4 (ens3):   plen 24 (255.255.255.0)
+Feb 18 09:59:46 2526126-co44688 NetworkManager[681]: <info>  [1708239586.1948] dhcp4 (ens3):   classless static route 169.254.169.0/24 gw 0.0.0.0
+Feb 18 09:59:46 2526126-co44688 NetworkManager[681]: <info>  [1708239586.1948] dhcp4 (ens3):   gateway 89.223.124.1
+Feb 18 09:59:46 2526126-co44688 NetworkManager[681]: <info>  [1708239586.1948] dhcp4 (ens3):   lease time 86400
+Feb 18 09:59:46 2526126-co44688 NetworkManager[681]: <info>  [1708239586.1948] dhcp4 (ens3):   nameserver '92.53.116.104'
+Feb 18 09:59:46 2526126-co44688 NetworkManager[681]: <info>  [1708239586.1948] dhcp4 (ens3):   nameserver '92.53.116.13'
+Feb 18 09:59:46 2526126-co44688 NetworkManager[681]: <info>  [1708239586.1949] dhcp4 (ens3): state changed new lease, address=89.223.124.90
+Feb 18 09:59:46 2526126-co44688 dhclient[771]: bound to 89.223.124.90 -- renewal in 41271 seconds.
+Feb 18 10:00:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 10:00:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 181027
+Feb 18 10:00:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 10:00:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 181029
+Feb 18 10:50:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 10:50:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 181138
+Feb 18 10:50:23 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 10:50:24 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 181140
+Feb 18 11:10:26 2526126-co44688 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 18 11:10:26 2526126-co44688 systemd[1]: systemd-tmpfiles-clean.service: Succeeded.
+Feb 18 11:10:26 2526126-co44688 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 18 11:11:41 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 18 11:11:42 2526126-co44688 dnf[181539]: CentOS Stream 8 - AppStream                      14 kB/s | 4.4 kB     00:00
+Feb 18 11:11:42 2526126-co44688 dnf[181539]: CentOS Stream 8 - BaseOS                         12 kB/s | 3.9 kB     00:00
+Feb 18 11:11:42 2526126-co44688 dnf[181539]: CentOS Stream 8 - Extras                         17 kB/s | 2.9 kB     00:00
+Feb 18 11:11:42 2526126-co44688 dnf[181539]: CentOS Stream 8 - Extras common packages         18 kB/s | 3.0 kB     00:00
+Feb 18 11:11:43 2526126-co44688 dnf[181539]: packages for the GitHub CLI                      27 kB/s | 3.0 kB     00:00
+Feb 18 11:11:43 2526126-co44688 dnf[181539]: Zabbix Agent From Timeweb                       502 kB/s | 2.9 kB     00:00
+Feb 18 11:11:44 2526126-co44688 dnf[181539]: Metadata cache created.
+Feb 18 11:11:44 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 18 11:11:44 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 18 11:19:26 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 18 11:40:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 11:40:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 182051
+Feb 18 11:40:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 11:40:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 182053
+Feb 18 12:18:30 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 18 12:18:31 2526126-co44688 dnf[182639]: Metadata cache refreshed recently.
+Feb 18 12:18:31 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 18 12:18:31 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 18 12:20:51 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 18 12:30:27 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 12:30:28 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 182904
+Feb 18 12:30:28 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 12:30:29 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 182906
+Feb 18 12:37:55 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 18 13:20:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 13:20:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 183200
+Feb 18 13:20:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 13:20:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 183202
+Feb 18 13:32:53 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 18 13:32:53 2526126-co44688 dnf[183244]: Metadata cache refreshed recently.
+Feb 18 13:32:53 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 18 13:32:53 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 18 14:10:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 14:10:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 183330
+Feb 18 14:10:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 14:10:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 183332
+Feb 18 15:00:23 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 15:00:24 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 183466
+Feb 18 15:00:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 15:00:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 183468
+Feb 18 15:11:11 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 18 15:11:12 2526126-co44688 dnf[183590]: CentOS Stream 8 - AppStream                      16 kB/s | 4.4 kB     00:00
+Feb 18 15:11:12 2526126-co44688 dnf[183590]: CentOS Stream 8 - BaseOS                         15 kB/s | 3.9 kB     00:00
+Feb 18 15:11:12 2526126-co44688 dnf[183590]: CentOS Stream 8 - Extras                         10 kB/s | 2.9 kB     00:00
+Feb 18 15:11:13 2526126-co44688 dnf[183590]: CentOS Stream 8 - Extras common packages        8.2 kB/s | 3.0 kB     00:00
+Feb 18 15:11:13 2526126-co44688 dnf[183590]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 18 15:11:13 2526126-co44688 dnf[183590]: Zabbix Agent From Timeweb                       505 kB/s | 2.9 kB     00:00
+Feb 18 15:11:15 2526126-co44688 dnf[183590]: Metadata cache created.
+Feb 18 15:11:15 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 18 15:11:15 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 18 15:50:26 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 15:50:27 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 184263
+Feb 18 15:50:27 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 15:50:28 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 184265
+Feb 18 16:00:16 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 18 16:14:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 18 16:14:23 2526126-co44688 dnf[184593]: Metadata cache refreshed recently.
+Feb 18 16:14:23 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 18 16:14:23 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 18 16:40:29 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 16:40:30 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 184698
+Feb 18 16:40:30 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 16:40:31 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 184700
+Feb 18 17:30:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 17:30:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 184851
+Feb 18 17:30:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 17:30:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 184853
+Feb 18 17:44:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 18 17:44:23 2526126-co44688 dnf[184882]: Metadata cache refreshed recently.
+Feb 18 17:44:23 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 18 17:44:23 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 18 18:20:27 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 18:20:28 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 184960
+Feb 18 18:20:28 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 18:20:29 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 184962
+Feb 18 19:10:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 19:10:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 185669
+Feb 18 19:10:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 19:10:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 185671
+Feb 18 19:35:16 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 18 19:35:17 2526126-co44688 dnf[185776]: CentOS Stream 8 - AppStream                      12 kB/s | 4.4 kB     00:00
+Feb 18 19:35:17 2526126-co44688 dnf[185776]: CentOS Stream 8 - BaseOS                         12 kB/s | 3.9 kB     00:00
+Feb 18 19:35:18 2526126-co44688 dnf[185776]: CentOS Stream 8 - Extras                        7.7 kB/s | 2.9 kB     00:00
+Feb 18 19:35:18 2526126-co44688 dnf[185776]: CentOS Stream 8 - Extras common packages        8.4 kB/s | 3.0 kB     00:00
+Feb 18 19:35:18 2526126-co44688 dnf[185776]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 18 19:35:18 2526126-co44688 dnf[185776]: Zabbix Agent From Timeweb                       479 kB/s | 2.9 kB     00:00
+Feb 18 19:35:20 2526126-co44688 dnf[185776]: Metadata cache created.
+Feb 18 19:35:20 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 18 19:35:20 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 18 19:55:02 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 18 20:00:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 20:00:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 186011
+Feb 18 20:00:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 20:00:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 186013
+Feb 18 20:46:48 2526126-co44688 systemd[1]: Started Session 11 of user root.
+Feb 18 20:46:48 2526126-co44688 systemd-logind[600]: New session 11 of user root.
+Feb 18 20:48:41 2526126-co44688 systemd[1]: session-11.scope: Succeeded.
+Feb 18 20:48:41 2526126-co44688 systemd-logind[600]: Session 11 logged out. Waiting for processes to exit.
+Feb 18 20:48:41 2526126-co44688 systemd-logind[600]: Removed session 11.
+Feb 18 20:49:53 2526126-co44688 systemd[1]: Started Session 12 of user root.
+Feb 18 20:49:53 2526126-co44688 systemd-logind[600]: New session 12 of user root.
+Feb 18 20:49:54 2526126-co44688 systemd[1]: session-12.scope: Succeeded.
+Feb 18 20:49:54 2526126-co44688 systemd-logind[600]: Session 12 logged out. Waiting for processes to exit.
+Feb 18 20:49:54 2526126-co44688 systemd-logind[600]: Removed session 12.
+Feb 18 20:50:11 2526126-co44688 systemd[1]: Started Session 13 of user root.
+Feb 18 20:50:11 2526126-co44688 systemd-logind[600]: New session 13 of user root.
+Feb 18 20:50:11 2526126-co44688 systemd[1]: session-13.scope: Succeeded.
+Feb 18 20:50:11 2526126-co44688 systemd-logind[600]: Session 13 logged out. Waiting for processes to exit.
+Feb 18 20:50:11 2526126-co44688 systemd-logind[600]: Removed session 13.
+Feb 18 20:50:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 20:50:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 186459
+Feb 18 20:50:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 20:50:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 186461
+Feb 18 20:50:28 2526126-co44688 systemd[1]: Started Session 14 of user root.
+Feb 18 20:50:28 2526126-co44688 systemd-logind[600]: New session 14 of user root.
+Feb 18 20:50:28 2526126-co44688 systemd[1]: session-14.scope: Succeeded.
+Feb 18 20:50:28 2526126-co44688 systemd-logind[600]: Session 14 logged out. Waiting for processes to exit.
+Feb 18 20:50:28 2526126-co44688 systemd-logind[600]: Removed session 14.
+Feb 18 20:52:00 2526126-co44688 systemd[1]: Started Session 15 of user root.
+Feb 18 20:52:00 2526126-co44688 systemd-logind[600]: New session 15 of user root.
+Feb 18 21:13:06 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 18 21:13:06 2526126-co44688 dnf[186636]: Metadata cache refreshed recently.
+Feb 18 21:13:06 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 18 21:13:06 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 18 21:20:58 2526126-co44688 zabbix_agentd[698]:   698:20240218:212058.565 failed to accept an incoming connection: connection from "141.98.81.142" rejected, allowed hosts: "92.53.116.12,92.53.116.111,92.53.116.119"
+Feb 18 21:27:37 2526126-co44688 dhclient[771]: DHCPREQUEST on ens3 to 169.254.169.254 port 67 (xid=0x2b37166b)
+Feb 18 21:27:37 2526126-co44688 dhclient[771]: DHCPACK from 169.254.169.254 (xid=0x2b37166b)
+Feb 18 21:27:37 2526126-co44688 NetworkManager[681]: <info>  [1708280857.9816] dhcp4 (ens3):   address 89.223.124.90
+Feb 18 21:27:37 2526126-co44688 NetworkManager[681]: <info>  [1708280857.9816] dhcp4 (ens3):   plen 24 (255.255.255.0)
+Feb 18 21:27:37 2526126-co44688 NetworkManager[681]: <info>  [1708280857.9817] dhcp4 (ens3):   classless static route 169.254.169.0/24 gw 0.0.0.0
+Feb 18 21:27:37 2526126-co44688 NetworkManager[681]: <info>  [1708280857.9817] dhcp4 (ens3):   gateway 89.223.124.1
+Feb 18 21:27:37 2526126-co44688 NetworkManager[681]: <info>  [1708280857.9817] dhcp4 (ens3):   lease time 86400
+Feb 18 21:27:37 2526126-co44688 NetworkManager[681]: <info>  [1708280857.9817] dhcp4 (ens3):   nameserver '92.53.116.104'
+Feb 18 21:27:37 2526126-co44688 NetworkManager[681]: <info>  [1708280857.9817] dhcp4 (ens3):   nameserver '92.53.116.13'
+Feb 18 21:27:37 2526126-co44688 NetworkManager[681]: <info>  [1708280857.9817] dhcp4 (ens3): state changed new lease, address=89.223.124.90
+Feb 18 21:27:37 2526126-co44688 dhclient[771]: bound to 89.223.124.90 -- renewal in 36505 seconds.
+Feb 18 21:40:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 21:40:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 186873
+Feb 18 21:40:26 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 21:40:27 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 186875
+Feb 18 22:30:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 22:30:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 187041
+Feb 18 22:30:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 22:30:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 187043
+Feb 18 22:47:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 18 22:47:23 2526126-co44688 dnf[187097]: CentOS Stream 8 - AppStream                      13 kB/s | 4.4 kB     00:00
+Feb 18 22:47:24 2526126-co44688 dnf[187097]: CentOS Stream 8 - BaseOS                         11 kB/s | 3.9 kB     00:00
+Feb 18 22:47:24 2526126-co44688 dnf[187097]: CentOS Stream 8 - Extras                         11 kB/s | 2.9 kB     00:00
+Feb 18 22:47:25 2526126-co44688 dnf[187097]: CentOS Stream 8 - Extras common packages         12 kB/s | 3.0 kB     00:00
+Feb 18 22:47:25 2526126-co44688 dnf[187097]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 18 22:47:25 2526126-co44688 dnf[187097]: Zabbix Agent From Timeweb                       471 kB/s | 2.9 kB     00:00
+Feb 18 22:47:26 2526126-co44688 dnf[187097]: Metadata cache created.
+Feb 18 22:47:27 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 18 22:47:27 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 18 23:06:35 2526126-co44688 systemd[1]: session-15.scope: Succeeded.
+Feb 18 23:06:35 2526126-co44688 systemd-logind[600]: Session 15 logged out. Waiting for processes to exit.
+Feb 18 23:06:35 2526126-co44688 systemd-logind[600]: Removed session 15.
+Feb 18 23:20:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 18 23:20:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 187308
+Feb 18 23:20:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 18 23:20:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 187310
+Feb 18 23:58:19 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 19 00:00:02 2526126-co44688 systemd[1]: Started Update a database for mlocate.
+Feb 19 00:00:02 2526126-co44688 systemd[1]: Starting update of the root trust anchor for DNSSEC validation in unbound...
+Feb 19 00:00:02 2526126-co44688 systemd[1]: unbound-anchor.service: Succeeded.
+Feb 19 00:00:02 2526126-co44688 systemd[1]: Started update of the root trust anchor for DNSSEC validation in unbound.
+Feb 19 00:00:02 2526126-co44688 systemd[1]: mlocate-updatedb.service: Succeeded.
+Feb 19 00:06:54 2526126-co44688 systemd[1]: Started Session 16 of user root.
+Feb 19 00:06:54 2526126-co44688 systemd-logind[600]: New session 16 of user root.
+Feb 19 00:08:02 2526126-co44688 systemd[1]: Started Session 17 of user root.
+Feb 19 00:08:02 2526126-co44688 systemd-logind[600]: New session 17 of user root.
+Feb 19 00:08:02 2526126-co44688 systemd[1]: session-17.scope: Succeeded.
+Feb 19 00:08:02 2526126-co44688 systemd-logind[600]: Session 17 logged out. Waiting for processes to exit.
+Feb 19 00:08:02 2526126-co44688 systemd-logind[600]: Removed session 17.
+Feb 19 00:08:07 2526126-co44688 systemd[1]: Started Session 18 of user root.
+Feb 19 00:08:07 2526126-co44688 systemd-logind[600]: New session 18 of user root.
+Feb 19 00:08:07 2526126-co44688 systemd[1]: session-18.scope: Succeeded.
+Feb 19 00:08:07 2526126-co44688 systemd-logind[600]: Session 18 logged out. Waiting for processes to exit.
+Feb 19 00:08:07 2526126-co44688 systemd-logind[600]: Removed session 18.
+Feb 19 00:08:49 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 19 00:10:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 00:10:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 188196
+Feb 19 00:10:23 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 00:10:24 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 188198
+Feb 19 00:20:16 2526126-co44688 systemd[1]: Started Session 19 of user root.
+Feb 19 00:20:16 2526126-co44688 systemd-logind[600]: New session 19 of user root.
+Feb 19 00:20:16 2526126-co44688 systemd[1]: session-19.scope: Succeeded.
+Feb 19 00:20:16 2526126-co44688 systemd-logind[600]: Session 19 logged out. Waiting for processes to exit.
+Feb 19 00:20:16 2526126-co44688 systemd-logind[600]: Removed session 19.
+Feb 19 00:20:30 2526126-co44688 systemd[1]: Started Session 20 of user root.
+Feb 19 00:20:30 2526126-co44688 systemd-logind[600]: New session 20 of user root.
+Feb 19 00:20:30 2526126-co44688 systemd[1]: session-20.scope: Succeeded.
+Feb 19 00:20:30 2526126-co44688 systemd-logind[600]: Session 20 logged out. Waiting for processes to exit.
+Feb 19 00:20:30 2526126-co44688 systemd-logind[600]: Removed session 20.
+Feb 19 00:21:57 2526126-co44688 systemd[1]: Started Session 21 of user root.
+Feb 19 00:21:57 2526126-co44688 systemd-logind[600]: New session 21 of user root.
+Feb 19 00:21:57 2526126-co44688 systemd[1]: session-21.scope: Succeeded.
+Feb 19 00:21:57 2526126-co44688 systemd-logind[600]: Session 21 logged out. Waiting for processes to exit.
+Feb 19 00:21:57 2526126-co44688 systemd-logind[600]: Removed session 21.
+Feb 19 00:24:49 2526126-co44688 systemd[1]: Started Session 22 of user root.
+Feb 19 00:24:49 2526126-co44688 systemd-logind[600]: New session 22 of user root.
+Feb 19 00:24:49 2526126-co44688 systemd[1]: session-22.scope: Succeeded.
+Feb 19 00:24:49 2526126-co44688 systemd-logind[600]: Session 22 logged out. Waiting for processes to exit.
+Feb 19 00:24:49 2526126-co44688 systemd-logind[600]: Removed session 22.
+Feb 19 00:31:55 2526126-co44688 systemd[1]: session-16.scope: Succeeded.
+Feb 19 00:31:55 2526126-co44688 systemd-logind[600]: Session 16 logged out. Waiting for processes to exit.
+Feb 19 00:31:55 2526126-co44688 systemd-logind[600]: Removed session 16.
+Feb 19 00:33:58 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 00:33:58 2526126-co44688 dnf[189061]: Metadata cache refreshed recently.
+Feb 19 00:33:58 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 00:33:58 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 00:39:55 2526126-co44688 systemd[1]: Started Session 23 of user root.
+Feb 19 00:39:55 2526126-co44688 systemd-logind[600]: New session 23 of user root.
+Feb 19 00:40:30 2526126-co44688 systemd[1]: Started Session 24 of user root.
+Feb 19 00:40:30 2526126-co44688 systemd-logind[600]: New session 24 of user root.
+Feb 19 00:40:31 2526126-co44688 systemd[1]: session-24.scope: Succeeded.
+Feb 19 00:40:31 2526126-co44688 systemd-logind[600]: Session 24 logged out. Waiting for processes to exit.
+Feb 19 00:40:31 2526126-co44688 systemd-logind[600]: Removed session 24.
+Feb 19 00:41:39 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 19 00:49:19 2526126-co44688 systemd[1]: session-23.scope: Succeeded.
+Feb 19 00:49:19 2526126-co44688 systemd-logind[600]: Session 23 logged out. Waiting for processes to exit.
+Feb 19 00:49:19 2526126-co44688 systemd-logind[600]: Removed session 23.
+Feb 19 00:50:32 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 00:50:33 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 189407
+Feb 19 00:50:33 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 00:50:34 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 189409
+Feb 19 01:40:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 01:40:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 189622
+Feb 19 01:40:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 01:40:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 189624
+Feb 19 01:42:13 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 01:42:13 2526126-co44688 dnf[189630]: Metadata cache refreshed recently.
+Feb 19 01:42:13 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 01:42:13 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 02:30:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 02:30:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 189964
+Feb 19 02:30:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 02:30:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 189966
+Feb 19 02:44:13 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 02:44:14 2526126-co44688 dnf[190032]: CentOS Stream 8 - AppStream                      17 kB/s | 4.4 kB     00:00
+Feb 19 02:44:14 2526126-co44688 dnf[190032]: CentOS Stream 8 - BaseOS                         11 kB/s | 3.9 kB     00:00
+Feb 19 02:44:15 2526126-co44688 dnf[190032]: CentOS Stream 8 - Extras                         11 kB/s | 2.9 kB     00:00
+Feb 19 02:44:15 2526126-co44688 dnf[190032]: CentOS Stream 8 - Extras common packages         12 kB/s | 3.0 kB     00:00
+Feb 19 02:44:15 2526126-co44688 dnf[190032]: packages for the GitHub CLI                      28 kB/s | 3.0 kB     00:00
+Feb 19 02:44:15 2526126-co44688 dnf[190032]: Zabbix Agent From Timeweb                       504 kB/s | 2.9 kB     00:00
+Feb 19 02:44:17 2526126-co44688 dnf[190032]: Metadata cache created.
+Feb 19 02:44:17 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 02:44:17 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 03:20:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 03:20:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 190205
+Feb 19 03:20:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 03:20:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 190207
+Feb 19 04:10:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 04:10:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 190423
+Feb 19 04:10:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 04:10:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 190425
+Feb 19 04:32:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 04:32:23 2526126-co44688 dnf[190474]: Metadata cache refreshed recently.
+Feb 19 04:32:23 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 04:32:23 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 05:00:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 05:00:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 190553
+Feb 19 05:00:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 05:00:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 190555
+Feb 19 05:50:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 05:50:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 190865
+Feb 19 05:50:26 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 05:50:27 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 190867
+Feb 19 06:06:06 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 06:06:07 2526126-co44688 dnf[190951]: CentOS Stream 8 - AppStream                      39 kB/s | 4.4 kB     00:00
+Feb 19 06:06:08 2526126-co44688 dnf[190951]: CentOS Stream 8 - BaseOS                        4.8 kB/s | 3.9 kB     00:00
+Feb 19 06:06:08 2526126-co44688 dnf[190951]: CentOS Stream 8 - Extras                         14 kB/s | 2.9 kB     00:00
+Feb 19 06:06:08 2526126-co44688 dnf[190951]: CentOS Stream 8 - Extras common packages         32 kB/s | 3.0 kB     00:00
+Feb 19 06:06:08 2526126-co44688 dnf[190951]: packages for the GitHub CLI                      28 kB/s | 3.0 kB     00:00
+Feb 19 06:06:08 2526126-co44688 dnf[190951]: Zabbix Agent From Timeweb                       490 kB/s | 2.9 kB     00:00
+Feb 19 06:06:10 2526126-co44688 dnf[190951]: Metadata cache created.
+Feb 19 06:06:10 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 06:06:10 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 06:15:46 2526126-co44688 zabbix_agentd[697]:   697:20240219:061546.252 failed to accept an incoming connection: connection from "80.75.212.44" rejected, allowed hosts: "92.53.116.12,92.53.116.111,92.53.116.119"
+Feb 19 06:40:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 06:40:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 191047
+Feb 19 06:40:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 06:40:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 191049
+Feb 19 06:50:31 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 19 07:30:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 07:30:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 191280
+Feb 19 07:30:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 07:30:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 191284
+Feb 19 07:36:02 2526126-co44688 dhclient[771]: DHCPREQUEST on ens3 to 169.254.169.254 port 67 (xid=0x2b37166b)
+Feb 19 07:36:02 2526126-co44688 dhclient[771]: DHCPACK from 169.254.169.254 (xid=0x2b37166b)
+Feb 19 07:36:02 2526126-co44688 NetworkManager[681]: <info>  [1708317362.7971] dhcp4 (ens3):   address 89.223.124.90
+Feb 19 07:36:02 2526126-co44688 NetworkManager[681]: <info>  [1708317362.7972] dhcp4 (ens3):   plen 24 (255.255.255.0)
+Feb 19 07:36:02 2526126-co44688 NetworkManager[681]: <info>  [1708317362.7972] dhcp4 (ens3):   classless static route 169.254.169.0/24 gw 0.0.0.0
+Feb 19 07:36:02 2526126-co44688 NetworkManager[681]: <info>  [1708317362.7972] dhcp4 (ens3):   gateway 89.223.124.1
+Feb 19 07:36:02 2526126-co44688 NetworkManager[681]: <info>  [1708317362.7973] dhcp4 (ens3):   lease time 86400
+Feb 19 07:36:02 2526126-co44688 NetworkManager[681]: <info>  [1708317362.7973] dhcp4 (ens3):   nameserver '92.53.116.104'
+Feb 19 07:36:02 2526126-co44688 NetworkManager[681]: <info>  [1708317362.7973] dhcp4 (ens3):   nameserver '92.53.116.13'
+Feb 19 07:36:02 2526126-co44688 NetworkManager[681]: <info>  [1708317362.7973] dhcp4 (ens3): state changed new lease, address=89.223.124.90
+Feb 19 07:36:02 2526126-co44688 dhclient[771]: bound to 89.223.124.90 -- renewal in 38331 seconds.
+Feb 19 08:03:13 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 08:03:13 2526126-co44688 dnf[191717]: Metadata cache refreshed recently.
+Feb 19 08:03:13 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 08:03:13 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 08:20:23 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 08:20:24 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 191785
+Feb 19 08:20:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 08:20:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 191787
+Feb 19 09:08:07 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 19 09:10:23 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 09:10:24 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 192468
+Feb 19 09:10:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 09:10:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 192470
+Feb 19 09:19:22 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 09:19:23 2526126-co44688 dnf[192531]: CentOS Stream 8 - AppStream                      10 kB/s | 4.4 kB     00:00
+Feb 19 09:19:23 2526126-co44688 dnf[192531]: CentOS Stream 8 - BaseOS                         13 kB/s | 3.9 kB     00:00
+Feb 19 09:19:25 2526126-co44688 dnf[192531]: CentOS Stream 8 - Extras                        2.6 kB/s | 2.9 kB     00:01
+Feb 19 09:19:25 2526126-co44688 dnf[192531]: CentOS Stream 8 - Extras common packages         11 kB/s | 3.0 kB     00:00
+Feb 19 09:19:25 2526126-co44688 dnf[192531]: packages for the GitHub CLI                      28 kB/s | 3.0 kB     00:00
+Feb 19 09:19:25 2526126-co44688 dnf[192531]: Zabbix Agent From Timeweb                       538 kB/s | 2.9 kB     00:00
+Feb 19 09:19:27 2526126-co44688 dnf[192531]: Metadata cache created.
+Feb 19 09:19:27 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 09:19:27 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 10:00:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 10:00:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 192673
+Feb 19 10:00:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 10:00:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 192675
+Feb 19 10:50:34 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 10:50:35 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 193237
+Feb 19 10:50:35 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 10:50:36 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 193239
+Feb 19 10:56:01 2526126-co44688 systemd[1]: Started Session 25 of user root.
+Feb 19 10:56:01 2526126-co44688 systemd-logind[600]: New session 25 of user root.
+Feb 19 11:03:06 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 11:03:06 2526126-co44688 dnf[193557]: Metadata cache refreshed recently.
+Feb 19 11:03:06 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 11:03:06 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 11:04:03 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 19 11:10:42 2526126-co44688 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 19 11:10:42 2526126-co44688 systemd[1]: systemd-tmpfiles-clean.service: Succeeded.
+Feb 19 11:10:42 2526126-co44688 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 19 11:26:43 2526126-co44688 systemd[1]: Started Session 26 of user root.
+Feb 19 11:26:43 2526126-co44688 systemd-logind[600]: New session 26 of user root.
+Feb 19 11:26:43 2526126-co44688 systemd[1]: session-26.scope: Succeeded.
+Feb 19 11:26:43 2526126-co44688 systemd-logind[600]: Session 26 logged out. Waiting for processes to exit.
+Feb 19 11:26:43 2526126-co44688 systemd-logind[600]: Removed session 26.
+Feb 19 11:27:03 2526126-co44688 systemd[1]: Started Session 27 of user root.
+Feb 19 11:27:03 2526126-co44688 systemd-logind[600]: New session 27 of user root.
+Feb 19 11:27:04 2526126-co44688 systemd[1]: session-27.scope: Succeeded.
+Feb 19 11:27:04 2526126-co44688 systemd-logind[600]: Session 27 logged out. Waiting for processes to exit.
+Feb 19 11:27:04 2526126-co44688 systemd-logind[600]: Removed session 27.
+Feb 19 11:29:20 2526126-co44688 systemd[1]: Started Session 28 of user root.
+Feb 19 11:29:20 2526126-co44688 systemd-logind[600]: New session 28 of user root.
+Feb 19 11:30:05 2526126-co44688 systemd[1]: Started Session 29 of user root.
+Feb 19 11:30:05 2526126-co44688 systemd-logind[600]: New session 29 of user root.
+Feb 19 11:30:05 2526126-co44688 systemd[1]: session-29.scope: Succeeded.
+Feb 19 11:30:05 2526126-co44688 systemd-logind[600]: Session 29 logged out. Waiting for processes to exit.
+Feb 19 11:30:05 2526126-co44688 systemd-logind[600]: Removed session 29.
+Feb 19 11:31:53 2526126-co44688 systemd[1]: Started Session 30 of user root.
+Feb 19 11:31:53 2526126-co44688 systemd-logind[600]: New session 30 of user root.
+Feb 19 11:31:54 2526126-co44688 systemd[1]: session-30.scope: Succeeded.
+Feb 19 11:31:54 2526126-co44688 systemd-logind[600]: Session 30 logged out. Waiting for processes to exit.
+Feb 19 11:31:54 2526126-co44688 systemd-logind[600]: Removed session 30.
+Feb 19 11:40:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 11:40:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 193896
+Feb 19 11:40:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 11:40:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 193898
+Feb 19 11:50:19 2526126-co44688 systemd[1]: Started Session 31 of user root.
+Feb 19 11:50:19 2526126-co44688 systemd-logind[600]: New session 31 of user root.
+Feb 19 11:50:19 2526126-co44688 systemd[1]: session-31.scope: Succeeded.
+Feb 19 11:50:19 2526126-co44688 systemd-logind[600]: Session 31 logged out. Waiting for processes to exit.
+Feb 19 11:50:19 2526126-co44688 systemd-logind[600]: Removed session 31.
+Feb 19 12:01:56 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 19 12:15:46 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 12:15:47 2526126-co44688 dnf[194307]: Metadata cache refreshed recently.
+Feb 19 12:15:47 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 12:15:47 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 12:30:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 12:30:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 194478
+Feb 19 12:30:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 12:30:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 194480
+Feb 19 13:11:56 2526126-co44688 systemd[1]: session-25.scope: Succeeded.
+Feb 19 13:11:56 2526126-co44688 systemd-logind[600]: Session 25 logged out. Waiting for processes to exit.
+Feb 19 13:11:56 2526126-co44688 systemd-logind[600]: Removed session 25.
+Feb 19 13:17:39 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 13:17:40 2526126-co44688 dnf[194682]: CentOS Stream 8 - AppStream                      10 kB/s | 4.4 kB     00:00
+Feb 19 13:17:40 2526126-co44688 dnf[194682]: CentOS Stream 8 - BaseOS                         14 kB/s | 3.9 kB     00:00
+Feb 19 13:17:41 2526126-co44688 dnf[194682]: CentOS Stream 8 - Extras                         10 kB/s | 2.9 kB     00:00
+Feb 19 13:17:41 2526126-co44688 dnf[194682]: CentOS Stream 8 - Extras common packages        9.8 kB/s | 3.0 kB     00:00
+Feb 19 13:17:41 2526126-co44688 dnf[194682]: packages for the GitHub CLI                      27 kB/s | 3.0 kB     00:00
+Feb 19 13:17:41 2526126-co44688 dnf[194682]: Zabbix Agent From Timeweb                       431 kB/s | 2.9 kB     00:00
+Feb 19 13:17:43 2526126-co44688 dnf[194682]: Metadata cache created.
+Feb 19 13:17:43 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 13:17:43 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 13:19:39 2526126-co44688 zabbix_agentd[697]:   697:20240219:131939.128 failed to accept an incoming connection: connection from "195.3.221.178" rejected, allowed hosts: "92.53.116.12,92.53.116.111,92.53.116.119"
+Feb 19 13:20:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 13:20:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 194706
+Feb 19 13:20:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 13:20:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 194708
+Feb 19 14:02:39 2526126-co44688 systemd[1]: session-28.scope: Succeeded.
+Feb 19 14:02:39 2526126-co44688 systemd-logind[600]: Session 28 logged out. Waiting for processes to exit.
+Feb 19 14:02:39 2526126-co44688 systemd-logind[600]: Removed session 28.
+Feb 19 14:13:23 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 14:13:24 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 195090
+Feb 19 14:13:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 14:13:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 195092
+Feb 19 14:33:05 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 19 14:36:31 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 14:36:31 2526126-co44688 dnf[195505]: Metadata cache refreshed recently.
+Feb 19 14:36:31 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 14:36:31 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 15:00:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 15:00:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 195679
+Feb 19 15:00:23 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 15:00:24 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 195683
+Feb 19 15:50:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 15:50:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 195933
+Feb 19 15:50:26 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 15:50:27 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 195937
+Feb 19 16:06:13 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 16:06:13 2526126-co44688 dnf[196061]: Metadata cache refreshed recently.
+Feb 19 16:06:13 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 16:06:13 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 16:40:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 16:40:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 196222
+Feb 19 16:40:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 16:40:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 196224
+Feb 19 17:19:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 17:19:23 2526126-co44688 dnf[196619]: CentOS Stream 8 - AppStream                      12 kB/s | 4.4 kB     00:00
+Feb 19 17:19:24 2526126-co44688 dnf[196619]: CentOS Stream 8 - BaseOS                         12 kB/s | 3.9 kB     00:00
+Feb 19 17:19:25 2526126-co44688 dnf[196619]: CentOS Stream 8 - Extras                        3.2 kB/s | 2.9 kB     00:00
+Feb 19 17:19:25 2526126-co44688 dnf[196619]: CentOS Stream 8 - Extras common packages         11 kB/s | 3.0 kB     00:00
+Feb 19 17:19:25 2526126-co44688 dnf[196619]: packages for the GitHub CLI                      27 kB/s | 3.0 kB     00:00
+Feb 19 17:19:25 2526126-co44688 dnf[196619]: Zabbix Agent From Timeweb                       394 kB/s | 2.9 kB     00:00
+Feb 19 17:19:27 2526126-co44688 dnf[196619]: Metadata cache created.
+Feb 19 17:19:27 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 17:19:27 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 17:30:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 17:30:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 196660
+Feb 19 17:30:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 17:30:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 196662
+Feb 19 18:14:53 2526126-co44688 dhclient[771]: DHCPREQUEST on ens3 to 169.254.169.254 port 67 (xid=0x2b37166b)
+Feb 19 18:14:53 2526126-co44688 dhclient[771]: DHCPACK from 169.254.169.254 (xid=0x2b37166b)
+Feb 19 18:14:53 2526126-co44688 NetworkManager[681]: <info>  [1708355693.5351] dhcp4 (ens3):   address 89.223.124.90
+Feb 19 18:14:53 2526126-co44688 NetworkManager[681]: <info>  [1708355693.5351] dhcp4 (ens3):   plen 24 (255.255.255.0)
+Feb 19 18:14:53 2526126-co44688 NetworkManager[681]: <info>  [1708355693.5352] dhcp4 (ens3):   classless static route 169.254.169.0/24 gw 0.0.0.0
+Feb 19 18:14:53 2526126-co44688 NetworkManager[681]: <info>  [1708355693.5352] dhcp4 (ens3):   gateway 89.223.124.1
+Feb 19 18:14:53 2526126-co44688 NetworkManager[681]: <info>  [1708355693.5352] dhcp4 (ens3):   lease time 86400
+Feb 19 18:14:53 2526126-co44688 NetworkManager[681]: <info>  [1708355693.5352] dhcp4 (ens3):   nameserver '92.53.116.104'
+Feb 19 18:14:53 2526126-co44688 NetworkManager[681]: <info>  [1708355693.5352] dhcp4 (ens3):   nameserver '92.53.116.13'
+Feb 19 18:14:53 2526126-co44688 NetworkManager[681]: <info>  [1708355693.5353] dhcp4 (ens3): state changed new lease, address=89.223.124.90
+Feb 19 18:14:53 2526126-co44688 dhclient[771]: bound to 89.223.124.90 -- renewal in 37196 seconds.
+Feb 19 18:20:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 18:20:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 196886
+Feb 19 18:20:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 18:20:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 196888
+Feb 19 18:26:24 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 19 19:10:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 19:10:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 198027
+Feb 19 19:10:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 19:10:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 198029
+Feb 19 19:11:10 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 19:11:10 2526126-co44688 dnf[198049]: Metadata cache refreshed recently.
+Feb 19 19:11:10 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 19:11:10 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 19:16:20 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 19 19:35:02 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 19 20:00:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 20:00:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 198786
+Feb 19 20:00:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 20:00:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 198788
+Feb 19 20:50:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 20:50:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 198890
+Feb 19 20:50:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 20:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 198892
+Feb 19 21:09:13 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 21:09:14 2526126-co44688 dnf[198996]: CentOS Stream 8 - AppStream                     8.4 kB/s | 4.4 kB     00:00
+Feb 19 21:09:15 2526126-co44688 dnf[198996]: CentOS Stream 8 - BaseOS                        3.8 kB/s | 3.9 kB     00:01
+Feb 19 21:09:15 2526126-co44688 dnf[198996]: CentOS Stream 8 - Extras                        8.1 kB/s | 2.9 kB     00:00
+Feb 19 21:09:15 2526126-co44688 dnf[198996]: CentOS Stream 8 - Extras common packages         12 kB/s | 3.0 kB     00:00
+Feb 19 21:09:16 2526126-co44688 dnf[198996]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 19 21:09:16 2526126-co44688 dnf[198996]: Zabbix Agent From Timeweb                       494 kB/s | 2.9 kB     00:00
+Feb 19 21:09:17 2526126-co44688 dnf[198996]: Metadata cache created.
+Feb 19 21:09:18 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 21:09:18 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 21:40:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 21:40:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 199323
+Feb 19 21:40:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 21:40:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 199325
+Feb 19 21:48:09 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 19 22:30:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 22:30:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 199971
+Feb 19 22:30:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 22:30:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 199973
+Feb 19 23:01:15 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 19 23:01:15 2526126-co44688 dnf[200696]: Metadata cache refreshed recently.
+Feb 19 23:01:15 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 19 23:01:15 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 19 23:08:40 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 19 23:20:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 19 23:20:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 201161
+Feb 19 23:20:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 19 23:20:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 201163
+Feb 20 00:00:02 2526126-co44688 systemd[1]: Started Update a database for mlocate.
+Feb 20 00:00:02 2526126-co44688 systemd[1]: Starting update of the root trust anchor for DNSSEC validation in unbound...
+Feb 20 00:00:02 2526126-co44688 systemd[1]: unbound-anchor.service: Succeeded.
+Feb 20 00:00:02 2526126-co44688 systemd[1]: Started update of the root trust anchor for DNSSEC validation in unbound.
+Feb 20 00:00:02 2526126-co44688 systemd[1]: mlocate-updatedb.service: Succeeded.
+Feb 20 00:10:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 00:10:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 201947
+Feb 20 00:10:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 00:10:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 201949
+Feb 20 00:36:30 2526126-co44688 systemd[1]: Started Session 32 of user root.
+Feb 20 00:36:30 2526126-co44688 systemd-logind[600]: New session 32 of user root.
+Feb 20 00:37:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 00:37:23 2526126-co44688 dnf[202075]: CentOS Stream 8 - AppStream                      13 kB/s | 4.4 kB     00:00
+Feb 20 00:37:24 2526126-co44688 dnf[202075]: CentOS Stream 8 - BaseOS                         26 kB/s | 3.9 kB     00:00
+Feb 20 00:37:24 2526126-co44688 dnf[202075]: CentOS Stream 8 - Extras                         26 kB/s | 2.9 kB     00:00
+Feb 20 00:37:24 2526126-co44688 dnf[202075]: CentOS Stream 8 - Extras common packages         24 kB/s | 3.0 kB     00:00
+Feb 20 00:37:24 2526126-co44688 dnf[202075]: packages for the GitHub CLI                      24 kB/s | 3.0 kB     00:00
+Feb 20 00:37:24 2526126-co44688 dnf[202075]: Zabbix Agent From Timeweb                       488 kB/s | 2.9 kB     00:00
+Feb 20 00:37:26 2526126-co44688 dnf[202075]: Metadata cache created.
+Feb 20 00:37:26 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 00:37:26 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 00:37:34 2526126-co44688 systemd[1]: Started Session 33 of user root.
+Feb 20 00:37:34 2526126-co44688 systemd-logind[600]: New session 33 of user root.
+Feb 20 00:37:34 2526126-co44688 systemd[1]: session-33.scope: Succeeded.
+Feb 20 00:37:34 2526126-co44688 systemd-logind[600]: Session 33 logged out. Waiting for processes to exit.
+Feb 20 00:37:34 2526126-co44688 systemd-logind[600]: Removed session 33.
+Feb 20 00:37:39 2526126-co44688 systemd[1]: Started Session 34 of user root.
+Feb 20 00:37:39 2526126-co44688 systemd-logind[600]: New session 34 of user root.
+Feb 20 00:37:39 2526126-co44688 systemd[1]: session-34.scope: Succeeded.
+Feb 20 00:37:39 2526126-co44688 systemd-logind[600]: Session 34 logged out. Waiting for processes to exit.
+Feb 20 00:37:39 2526126-co44688 systemd-logind[600]: Removed session 34.
+Feb 20 00:38:32 2526126-co44688 systemd[1]: Started Session 35 of user root.
+Feb 20 00:38:32 2526126-co44688 systemd-logind[600]: New session 35 of user root.
+Feb 20 00:38:32 2526126-co44688 systemd[1]: session-35.scope: Succeeded.
+Feb 20 00:38:32 2526126-co44688 systemd-logind[600]: Session 35 logged out. Waiting for processes to exit.
+Feb 20 00:38:32 2526126-co44688 systemd-logind[600]: Removed session 35.
+Feb 20 00:50:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 00:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 202216
+Feb 20 00:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 00:50:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 202218
+Feb 20 01:40:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 01:40:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 202421
+Feb 20 01:40:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 01:40:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 202423
+Feb 20 01:40:51 2526126-co44688 systemd[1]: Started Session 36 of user root.
+Feb 20 01:40:51 2526126-co44688 systemd-logind[600]: New session 36 of user root.
+Feb 20 01:49:26 2526126-co44688 systemd[1]: Started Session 37 of user root.
+Feb 20 01:49:26 2526126-co44688 systemd-logind[600]: New session 37 of user root.
+Feb 20 01:49:27 2526126-co44688 systemd[1]: session-37.scope: Succeeded.
+Feb 20 01:49:27 2526126-co44688 systemd-logind[600]: Session 37 logged out. Waiting for processes to exit.
+Feb 20 01:49:27 2526126-co44688 systemd-logind[600]: Removed session 37.
+Feb 20 01:49:29 2526126-co44688 systemd[1]: Started Session 38 of user root.
+Feb 20 01:49:29 2526126-co44688 systemd-logind[600]: New session 38 of user root.
+Feb 20 01:49:30 2526126-co44688 systemd[1]: session-38.scope: Succeeded.
+Feb 20 01:49:30 2526126-co44688 systemd-logind[600]: Session 38 logged out. Waiting for processes to exit.
+Feb 20 01:49:30 2526126-co44688 systemd-logind[600]: Removed session 38.
+Feb 20 01:53:40 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 20 02:07:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 02:07:23 2526126-co44688 dnf[202630]: Metadata cache refreshed recently.
+Feb 20 02:07:23 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 02:07:23 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 02:34:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 02:34:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 202735
+Feb 20 02:34:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 02:34:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 202737
+Feb 20 02:51:04 2526126-co44688 systemd[1]: session-32.scope: Succeeded.
+Feb 20 02:51:04 2526126-co44688 systemd-logind[600]: Session 32 logged out. Waiting for processes to exit.
+Feb 20 02:51:04 2526126-co44688 systemd-logind[600]: Removed session 32.
+Feb 20 03:38:51 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 03:38:52 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 202955
+Feb 20 03:38:52 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 03:38:53 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 202957
+Feb 20 03:48:13 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 03:48:13 2526126-co44688 dnf[202973]: CentOS Stream 8 - AppStream                      16 kB/s | 4.4 kB     00:00
+Feb 20 03:48:14 2526126-co44688 dnf[202973]: CentOS Stream 8 - BaseOS                         11 kB/s | 3.9 kB     00:00
+Feb 20 03:48:14 2526126-co44688 dnf[202973]: CentOS Stream 8 - Extras                         11 kB/s | 2.9 kB     00:00
+Feb 20 03:48:15 2526126-co44688 dnf[202973]: CentOS Stream 8 - Extras common packages         11 kB/s | 3.0 kB     00:00
+Feb 20 03:48:15 2526126-co44688 dnf[202973]: packages for the GitHub CLI                      28 kB/s | 3.0 kB     00:00
+Feb 20 03:48:15 2526126-co44688 dnf[202973]: Zabbix Agent From Timeweb                       497 kB/s | 2.9 kB     00:00
+Feb 20 03:48:17 2526126-co44688 dnf[202973]: Metadata cache created.
+Feb 20 03:48:17 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 03:48:17 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 04:00:58 2526126-co44688 systemd[1]: session-36.scope: Succeeded.
+Feb 20 04:00:58 2526126-co44688 systemd-logind[600]: Session 36 logged out. Waiting for processes to exit.
+Feb 20 04:00:58 2526126-co44688 systemd-logind[600]: Removed session 36.
+Feb 20 04:10:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 04:10:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 203084
+Feb 20 04:10:26 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 04:10:27 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 203086
+Feb 20 04:34:49 2526126-co44688 dhclient[771]: DHCPREQUEST on ens3 to 169.254.169.254 port 67 (xid=0x2b37166b)
+Feb 20 04:34:49 2526126-co44688 dhclient[771]: DHCPACK from 169.254.169.254 (xid=0x2b37166b)
+Feb 20 04:34:49 2526126-co44688 NetworkManager[681]: <info>  [1708392889.3375] dhcp4 (ens3):   address 89.223.124.90
+Feb 20 04:34:49 2526126-co44688 NetworkManager[681]: <info>  [1708392889.3375] dhcp4 (ens3):   plen 24 (255.255.255.0)
+Feb 20 04:34:49 2526126-co44688 NetworkManager[681]: <info>  [1708392889.3376] dhcp4 (ens3):   classless static route 169.254.169.0/24 gw 0.0.0.0
+Feb 20 04:34:49 2526126-co44688 NetworkManager[681]: <info>  [1708392889.3376] dhcp4 (ens3):   gateway 89.223.124.1
+Feb 20 04:34:49 2526126-co44688 NetworkManager[681]: <info>  [1708392889.3376] dhcp4 (ens3):   lease time 86400
+Feb 20 04:34:49 2526126-co44688 NetworkManager[681]: <info>  [1708392889.3376] dhcp4 (ens3):   nameserver '92.53.116.104'
+Feb 20 04:34:49 2526126-co44688 NetworkManager[681]: <info>  [1708392889.3376] dhcp4 (ens3):   nameserver '92.53.116.13'
+Feb 20 04:34:49 2526126-co44688 NetworkManager[681]: <info>  [1708392889.3377] dhcp4 (ens3): state changed new lease, address=89.223.124.90
+Feb 20 04:34:49 2526126-co44688 dhclient[771]: bound to 89.223.124.90 -- renewal in 35414 seconds.
+Feb 20 05:00:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 05:00:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 203293
+Feb 20 05:00:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 05:00:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 203295
+Feb 20 05:46:37 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 05:46:37 2526126-co44688 dnf[203537]: Metadata cache refreshed recently.
+Feb 20 05:46:37 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 05:46:37 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 05:50:28 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 05:50:29 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 203579
+Feb 20 05:50:29 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 05:50:30 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 203581
+Feb 20 06:23:36 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 20 06:40:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 06:40:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 203957
+Feb 20 06:40:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 06:40:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 203959
+Feb 20 06:52:19 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 20 06:59:48 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 06:59:48 2526126-co44688 dnf[204180]: CentOS Stream 8 - AppStream                      10 kB/s | 4.4 kB     00:00
+Feb 20 06:59:50 2526126-co44688 dnf[204180]: CentOS Stream 8 - BaseOS                        3.9 kB/s | 3.9 kB     00:01
+Feb 20 06:59:50 2526126-co44688 dnf[204180]: CentOS Stream 8 - Extras                        7.8 kB/s | 2.9 kB     00:00
+Feb 20 06:59:50 2526126-co44688 dnf[204180]: CentOS Stream 8 - Extras common packages         11 kB/s | 3.0 kB     00:00
+Feb 20 06:59:50 2526126-co44688 dnf[204180]: packages for the GitHub CLI                      28 kB/s | 3.0 kB     00:00
+Feb 20 06:59:50 2526126-co44688 dnf[204180]: Zabbix Agent From Timeweb                       466 kB/s | 2.9 kB     00:00
+Feb 20 06:59:53 2526126-co44688 dnf[204180]: Metadata cache created.
+Feb 20 06:59:53 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 06:59:53 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 07:30:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 07:30:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 204538
+Feb 20 07:30:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 07:30:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 204540
+Feb 20 08:20:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 08:20:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 205124
+Feb 20 08:20:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 08:20:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 205126
+Feb 20 08:43:11 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 20 08:43:52 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 08:43:52 2526126-co44688 dnf[205384]: Metadata cache refreshed recently.
+Feb 20 08:43:52 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 08:43:52 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 09:10:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 09:10:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 205676
+Feb 20 09:10:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 09:10:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 205678
+Feb 20 09:47:15 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 09:47:16 2526126-co44688 dnf[206021]: Metadata cache refreshed recently.
+Feb 20 09:47:16 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 09:47:16 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 10:00:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 10:00:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 206199
+Feb 20 10:00:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 10:00:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 206201
+Feb 20 10:47:47 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 20 10:50:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 10:50:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 206727
+Feb 20 10:50:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 10:50:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 206729
+Feb 20 11:04:31 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 11:04:31 2526126-co44688 dnf[206878]: CentOS Stream 8 - AppStream                      21 kB/s | 4.4 kB     00:00
+Feb 20 11:04:31 2526126-co44688 dnf[206878]: CentOS Stream 8 - BaseOS                         26 kB/s | 3.9 kB     00:00
+Feb 20 11:04:32 2526126-co44688 dnf[206878]: CentOS Stream 8 - Extras                         26 kB/s | 2.9 kB     00:00
+Feb 20 11:04:32 2526126-co44688 dnf[206878]: CentOS Stream 8 - Extras common packages         20 kB/s | 3.0 kB     00:00
+Feb 20 11:04:32 2526126-co44688 dnf[206878]: packages for the GitHub CLI                      27 kB/s | 3.0 kB     00:00
+Feb 20 11:04:32 2526126-co44688 dnf[206878]: Zabbix Agent From Timeweb                       494 kB/s | 2.9 kB     00:00
+Feb 20 11:04:34 2526126-co44688 dnf[206878]: Metadata cache created.
+Feb 20 11:04:34 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 11:04:34 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 11:10:52 2526126-co44688 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 20 11:10:52 2526126-co44688 systemd[1]: systemd-tmpfiles-clean.service: Succeeded.
+Feb 20 11:10:52 2526126-co44688 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 20 11:40:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 11:40:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 207228
+Feb 20 11:40:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 11:40:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 207230
+Feb 20 12:30:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 12:30:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 207617
+Feb 20 12:30:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 12:30:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 207619
+Feb 20 12:55:17 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 12:55:17 2526126-co44688 dnf[207760]: Metadata cache refreshed recently.
+Feb 20 12:55:17 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 12:55:17 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 13:20:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 13:20:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 207908
+Feb 20 13:20:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 13:20:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 207910
+Feb 20 13:40:19 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 20 13:49:47 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 20 14:10:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 14:10:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 209255
+Feb 20 14:10:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 14:10:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 209259
+Feb 20 14:16:58 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 14:16:59 2526126-co44688 dnf[209402]: CentOS Stream 8 - AppStream                      38 kB/s | 4.4 kB     00:00
+Feb 20 14:16:59 2526126-co44688 dnf[209402]: CentOS Stream 8 - BaseOS                         36 kB/s | 3.9 kB     00:00
+Feb 20 14:16:59 2526126-co44688 dnf[209402]: CentOS Stream 8 - Extras                         27 kB/s | 2.9 kB     00:00
+Feb 20 14:17:00 2526126-co44688 dnf[209402]: CentOS Stream 8 - Extras common packages         23 kB/s | 3.0 kB     00:00
+Feb 20 14:17:00 2526126-co44688 dnf[209402]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 20 14:17:00 2526126-co44688 dnf[209402]: Zabbix Agent From Timeweb                       484 kB/s | 2.9 kB     00:00
+Feb 20 14:17:02 2526126-co44688 dnf[209402]: Metadata cache created.
+Feb 20 14:17:02 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 14:17:02 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 14:25:03 2526126-co44688 dhclient[771]: DHCPREQUEST on ens3 to 169.254.169.254 port 67 (xid=0x2b37166b)
+Feb 20 14:25:03 2526126-co44688 dhclient[771]: DHCPACK from 169.254.169.254 (xid=0x2b37166b)
+Feb 20 14:25:03 2526126-co44688 NetworkManager[681]: <info>  [1708428303.6254] dhcp4 (ens3):   address 89.223.124.90
+Feb 20 14:25:03 2526126-co44688 NetworkManager[681]: <info>  [1708428303.6255] dhcp4 (ens3):   plen 24 (255.255.255.0)
+Feb 20 14:25:03 2526126-co44688 NetworkManager[681]: <info>  [1708428303.6255] dhcp4 (ens3):   classless static route 169.254.169.0/24 gw 0.0.0.0
+Feb 20 14:25:03 2526126-co44688 NetworkManager[681]: <info>  [1708428303.6255] dhcp4 (ens3):   gateway 89.223.124.1
+Feb 20 14:25:03 2526126-co44688 NetworkManager[681]: <info>  [1708428303.6255] dhcp4 (ens3):   lease time 86400
+Feb 20 14:25:03 2526126-co44688 NetworkManager[681]: <info>  [1708428303.6256] dhcp4 (ens3):   nameserver '92.53.116.104'
+Feb 20 14:25:03 2526126-co44688 NetworkManager[681]: <info>  [1708428303.6256] dhcp4 (ens3):   nameserver '92.53.116.13'
+Feb 20 14:25:03 2526126-co44688 NetworkManager[681]: <info>  [1708428303.6256] dhcp4 (ens3): state changed new lease, address=89.223.124.90
+Feb 20 14:25:03 2526126-co44688 dhclient[771]: bound to 89.223.124.90 -- renewal in 35549 seconds.
+Feb 20 14:40:53 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 20 15:00:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 15:00:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 210431
+Feb 20 15:00:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 15:00:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 210433
+Feb 20 15:27:04 2526126-co44688 systemd[1]: Started Session 39 of user root.
+Feb 20 15:27:04 2526126-co44688 systemd-logind[600]: New session 39 of user root.
+Feb 20 15:27:20 2526126-co44688 systemd[1]: Started Session 40 of user root.
+Feb 20 15:27:20 2526126-co44688 systemd-logind[600]: New session 40 of user root.
+Feb 20 15:27:20 2526126-co44688 systemd[1]: session-40.scope: Succeeded.
+Feb 20 15:27:20 2526126-co44688 systemd-logind[600]: Session 40 logged out. Waiting for processes to exit.
+Feb 20 15:27:20 2526126-co44688 systemd-logind[600]: Removed session 40.
+Feb 20 15:50:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 15:50:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 211706
+Feb 20 15:50:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 15:50:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 211708
+Feb 20 16:02:21 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 20 16:16:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 16:16:23 2526126-co44688 dnf[212432]: Metadata cache refreshed recently.
+Feb 20 16:16:23 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 16:16:23 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 16:28:43 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 20 16:40:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 16:40:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 213180
+Feb 20 16:40:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 16:40:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 213184
+Feb 20 17:07:46 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 20 17:30:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 17:30:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 214365
+Feb 20 17:30:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 17:30:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 214368
+Feb 20 17:34:28 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 17:34:29 2526126-co44688 dnf[214462]: CentOS Stream 8 - AppStream                      15 kB/s | 4.4 kB     00:00
+Feb 20 17:34:29 2526126-co44688 dnf[214462]: CentOS Stream 8 - BaseOS                         36 kB/s | 3.9 kB     00:00
+Feb 20 17:34:30 2526126-co44688 dnf[214462]: CentOS Stream 8 - Extras                        8.0 kB/s | 2.9 kB     00:00
+Feb 20 17:34:30 2526126-co44688 dnf[214462]: CentOS Stream 8 - Extras common packages         32 kB/s | 3.0 kB     00:00
+Feb 20 17:34:30 2526126-co44688 dnf[214462]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 20 17:34:30 2526126-co44688 dnf[214462]: Zabbix Agent From Timeweb                       482 kB/s | 2.9 kB     00:00
+Feb 20 17:34:32 2526126-co44688 dnf[214462]: Metadata cache created.
+Feb 20 17:34:32 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 17:34:32 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 17:42:21 2526126-co44688 systemd[1]: session-39.scope: Succeeded.
+Feb 20 17:42:21 2526126-co44688 systemd-logind[600]: Session 39 logged out. Waiting for processes to exit.
+Feb 20 17:42:21 2526126-co44688 systemd-logind[600]: Removed session 39.
+Feb 20 18:20:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 18:20:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 215515
+Feb 20 18:20:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 18:20:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 215517
+Feb 20 18:33:03 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 20 18:49:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 18:49:23 2526126-co44688 dnf[216179]: Metadata cache refreshed recently.
+Feb 20 18:49:23 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 18:49:23 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 19:10:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 19:10:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 216655
+Feb 20 19:10:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 19:10:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 216659
+Feb 20 19:32:33 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 20 19:58:23 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 20 20:00:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 20:00:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 217822
+Feb 20 20:00:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 20:00:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 217824
+Feb 20 20:18:56 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 20:18:56 2526126-co44688 dnf[218257]: Metadata cache refreshed recently.
+Feb 20 20:18:56 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 20:18:56 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 20:23:41 2526126-co44688 systemd[1]: Started Session 41 of user root.
+Feb 20 20:23:41 2526126-co44688 systemd-logind[600]: New session 41 of user root.
+Feb 20 20:24:55 2526126-co44688 systemd[1]: Started Session 42 of user root.
+Feb 20 20:24:55 2526126-co44688 systemd-logind[600]: New session 42 of user root.
+Feb 20 20:24:56 2526126-co44688 systemd[1]: session-42.scope: Succeeded.
+Feb 20 20:24:56 2526126-co44688 systemd-logind[600]: Session 42 logged out. Waiting for processes to exit.
+Feb 20 20:24:56 2526126-co44688 systemd-logind[600]: Removed session 42.
+Feb 20 20:25:18 2526126-co44688 systemd[1]: Started Session 43 of user root.
+Feb 20 20:25:18 2526126-co44688 systemd-logind[600]: New session 43 of user root.
+Feb 20 20:25:19 2526126-co44688 systemd[1]: session-43.scope: Succeeded.
+Feb 20 20:25:19 2526126-co44688 systemd-logind[600]: Session 43 logged out. Waiting for processes to exit.
+Feb 20 20:25:19 2526126-co44688 systemd-logind[600]: Removed session 43.
+Feb 20 20:26:17 2526126-co44688 systemd[1]: Started Session 44 of user root.
+Feb 20 20:26:17 2526126-co44688 systemd-logind[600]: New session 44 of user root.
+Feb 20 20:26:17 2526126-co44688 systemd[1]: session-44.scope: Succeeded.
+Feb 20 20:26:17 2526126-co44688 systemd-logind[600]: Session 44 logged out. Waiting for processes to exit.
+Feb 20 20:26:17 2526126-co44688 systemd-logind[600]: Removed session 44.
+Feb 20 20:50:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 20:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 219093
+Feb 20 20:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 20:50:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 219095
+Feb 20 21:23:23 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 20 21:35:08 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 21:35:09 2526126-co44688 dnf[220103]: CentOS Stream 8 - AppStream                      16 kB/s | 4.4 kB     00:00
+Feb 20 21:35:10 2526126-co44688 dnf[220103]: CentOS Stream 8 - BaseOS                        4.3 kB/s | 3.9 kB     00:00
+Feb 20 21:35:10 2526126-co44688 dnf[220103]: CentOS Stream 8 - Extras                         13 kB/s | 2.9 kB     00:00
+Feb 20 21:35:11 2526126-co44688 dnf[220103]: CentOS Stream 8 - Extras common packages        3.0 kB/s | 3.0 kB     00:00
+Feb 20 21:35:11 2526126-co44688 dnf[220103]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 20 21:35:11 2526126-co44688 dnf[220103]: Zabbix Agent From Timeweb                       424 kB/s | 2.9 kB     00:00
+Feb 20 21:35:13 2526126-co44688 dnf[220103]: Metadata cache created.
+Feb 20 21:35:13 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 21:35:13 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 21:40:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 21:40:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 220227
+Feb 20 21:40:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 21:40:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 220229
+Feb 20 22:30:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 22:30:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 221402
+Feb 20 22:30:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 22:30:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 221404
+Feb 20 22:36:17 2526126-co44688 zabbix_agentd[697]:   697:20240220:223617.932 failed to accept an incoming connection: connection from "185.242.226.3" rejected, allowed hosts: "92.53.116.12,92.53.116.111,92.53.116.119"
+Feb 20 22:36:19 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 20 22:46:47 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 20 23:02:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 20 23:02:23 2526126-co44688 dnf[222136]: Metadata cache refreshed recently.
+Feb 20 23:02:23 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 20 23:02:23 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 20 23:20:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 20 23:20:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 222523
+Feb 20 23:20:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 20 23:20:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 222527
+Feb 21 00:00:02 2526126-co44688 systemd[1]: Started Update a database for mlocate.
+Feb 21 00:00:02 2526126-co44688 systemd[1]: Starting update of the root trust anchor for DNSSEC validation in unbound...
+Feb 21 00:00:02 2526126-co44688 systemd[1]: unbound-anchor.service: Succeeded.
+Feb 21 00:00:02 2526126-co44688 systemd[1]: Started update of the root trust anchor for DNSSEC validation in unbound.
+Feb 21 00:00:02 2526126-co44688 systemd[1]: mlocate-updatedb.service: Succeeded.
+Feb 21 00:00:56 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 21 00:10:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 00:10:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 223814
+Feb 21 00:10:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 00:10:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 223816
+Feb 21 00:15:13 2526126-co44688 systemd[1]: Started Session 45 of user root.
+Feb 21 00:15:13 2526126-co44688 systemd-logind[600]: New session 45 of user root.
+Feb 21 00:16:08 2526126-co44688 systemd[1]: Started Session 46 of user root.
+Feb 21 00:16:08 2526126-co44688 systemd-logind[600]: New session 46 of user root.
+Feb 21 00:16:08 2526126-co44688 systemd[1]: session-46.scope: Succeeded.
+Feb 21 00:16:08 2526126-co44688 systemd-logind[600]: Session 46 logged out. Waiting for processes to exit.
+Feb 21 00:16:08 2526126-co44688 systemd-logind[600]: Removed session 46.
+Feb 21 00:17:32 2526126-co44688 dhclient[771]: DHCPREQUEST on ens3 to 169.254.169.254 port 67 (xid=0x2b37166b)
+Feb 21 00:17:32 2526126-co44688 dhclient[771]: DHCPACK from 169.254.169.254 (xid=0x2b37166b)
+Feb 21 00:17:32 2526126-co44688 NetworkManager[681]: <info>  [1708463852.7279] dhcp4 (ens3):   address 89.223.124.90
+Feb 21 00:17:32 2526126-co44688 NetworkManager[681]: <info>  [1708463852.7280] dhcp4 (ens3):   plen 24 (255.255.255.0)
+Feb 21 00:17:32 2526126-co44688 NetworkManager[681]: <info>  [1708463852.7280] dhcp4 (ens3):   classless static route 169.254.169.0/24 gw 0.0.0.0
+Feb 21 00:17:32 2526126-co44688 NetworkManager[681]: <info>  [1708463852.7280] dhcp4 (ens3):   gateway 89.223.124.1
+Feb 21 00:17:32 2526126-co44688 NetworkManager[681]: <info>  [1708463852.7280] dhcp4 (ens3):   lease time 86400
+Feb 21 00:17:32 2526126-co44688 NetworkManager[681]: <info>  [1708463852.7280] dhcp4 (ens3):   nameserver '92.53.116.104'
+Feb 21 00:17:32 2526126-co44688 NetworkManager[681]: <info>  [1708463852.7280] dhcp4 (ens3):   nameserver '92.53.116.13'
+Feb 21 00:17:32 2526126-co44688 NetworkManager[681]: <info>  [1708463852.7281] dhcp4 (ens3): state changed new lease, address=89.223.124.90
+Feb 21 00:17:32 2526126-co44688 dhclient[771]: bound to 89.223.124.90 -- renewal in 37871 seconds.
+Feb 21 00:22:37 2526126-co44688 systemd[1]: Started Session 47 of user root.
+Feb 21 00:22:37 2526126-co44688 systemd-logind[600]: New session 47 of user root.
+Feb 21 00:22:38 2526126-co44688 systemd[1]: session-47.scope: Succeeded.
+Feb 21 00:22:38 2526126-co44688 systemd-logind[600]: Session 47 logged out. Waiting for processes to exit.
+Feb 21 00:22:38 2526126-co44688 systemd-logind[600]: Removed session 47.
+Feb 21 00:24:42 2526126-co44688 systemd[1]: Started Session 48 of user root.
+Feb 21 00:24:42 2526126-co44688 systemd-logind[600]: New session 48 of user root.
+Feb 21 00:24:42 2526126-co44688 systemd[1]: session-48.scope: Succeeded.
+Feb 21 00:24:42 2526126-co44688 systemd-logind[600]: Session 48 logged out. Waiting for processes to exit.
+Feb 21 00:24:42 2526126-co44688 systemd-logind[600]: Removed session 48.
+Feb 21 00:24:59 2526126-co44688 systemd[1]: Started Session 49 of user root.
+Feb 21 00:24:59 2526126-co44688 systemd-logind[600]: New session 49 of user root.
+Feb 21 00:24:59 2526126-co44688 systemd[1]: session-49.scope: Succeeded.
+Feb 21 00:24:59 2526126-co44688 systemd-logind[600]: Session 49 logged out. Waiting for processes to exit.
+Feb 21 00:24:59 2526126-co44688 systemd-logind[600]: Removed session 49.
+Feb 21 00:26:11 2526126-co44688 systemd[1]: Started Session 50 of user root.
+Feb 21 00:26:11 2526126-co44688 systemd-logind[600]: New session 50 of user root.
+Feb 21 00:26:11 2526126-co44688 systemd[1]: session-50.scope: Succeeded.
+Feb 21 00:26:11 2526126-co44688 systemd-logind[600]: Session 50 logged out. Waiting for processes to exit.
+Feb 21 00:26:11 2526126-co44688 systemd-logind[600]: Removed session 50.
+Feb 21 00:37:54 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 00:37:55 2526126-co44688 dnf[224700]: CentOS Stream 8 - AppStream                      21 kB/s | 4.4 kB     00:00
+Feb 21 00:37:55 2526126-co44688 dnf[224700]: CentOS Stream 8 - BaseOS                         32 kB/s | 3.9 kB     00:00
+Feb 21 00:37:55 2526126-co44688 dnf[224700]: CentOS Stream 8 - Extras                         24 kB/s | 2.9 kB     00:00
+Feb 21 00:37:56 2526126-co44688 dnf[224700]: CentOS Stream 8 - Extras common packages         28 kB/s | 3.0 kB     00:00
+Feb 21 00:37:56 2526126-co44688 dnf[224700]: packages for the GitHub CLI                      13 kB/s | 3.0 kB     00:00
+Feb 21 00:37:56 2526126-co44688 dnf[224700]: Zabbix Agent From Timeweb                       496 kB/s | 2.9 kB     00:00
+Feb 21 00:37:58 2526126-co44688 dnf[224700]: Metadata cache created.
+Feb 21 00:37:58 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 00:37:58 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 00:41:47 2526126-co44688 systemd[1]: session-41.scope: Succeeded.
+Feb 21 00:41:47 2526126-co44688 systemd-logind[600]: Session 41 logged out. Waiting for processes to exit.
+Feb 21 00:41:47 2526126-co44688 systemd-logind[600]: Removed session 41.
+Feb 21 00:50:28 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 00:50:29 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 224999
+Feb 21 00:50:29 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 00:50:30 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 225001
+Feb 21 01:13:13 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 21 01:30:37 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 21 01:40:39 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 01:40:40 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 226158
+Feb 21 01:40:40 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 01:40:41 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 226160
+Feb 21 01:41:07 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 01:41:07 2526126-co44688 dnf[226170]: Metadata cache refreshed recently.
+Feb 21 01:41:07 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 01:41:07 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 02:30:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 02:30:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 227330
+Feb 21 02:30:26 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 02:30:27 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 227332
+Feb 21 02:36:13 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 21 02:38:07 2526126-co44688 systemd[1]: session-45.scope: Succeeded.
+Feb 21 02:38:07 2526126-co44688 systemd-logind[600]: Session 45 logged out. Waiting for processes to exit.
+Feb 21 02:38:07 2526126-co44688 systemd-logind[600]: Removed session 45.
+Feb 21 03:20:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 03:20:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 228517
+Feb 21 03:20:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 03:20:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 228519
+Feb 21 03:30:39 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 03:30:39 2526126-co44688 dnf[228749]: Metadata cache refreshed recently.
+Feb 21 03:30:39 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 03:30:39 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 03:59:14 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 21 04:10:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 04:10:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 229688
+Feb 21 04:10:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 04:10:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 229690
+Feb 21 05:00:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 05:00:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230192
+Feb 21 05:00:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 05:00:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230194
+Feb 21 05:04:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 05:04:23 2526126-co44688 dnf[230212]: CentOS Stream 8 - AppStream                      12 kB/s | 4.4 kB     00:00
+Feb 21 05:04:24 2526126-co44688 dnf[230212]: CentOS Stream 8 - BaseOS                         34 kB/s | 3.9 kB     00:00
+Feb 21 05:04:24 2526126-co44688 dnf[230212]: CentOS Stream 8 - Extras                         27 kB/s | 2.9 kB     00:00
+Feb 21 05:04:24 2526126-co44688 dnf[230212]: CentOS Stream 8 - Extras common packages         16 kB/s | 3.0 kB     00:00
+Feb 21 05:04:24 2526126-co44688 dnf[230212]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 21 05:04:24 2526126-co44688 dnf[230212]: Zabbix Agent From Timeweb                       488 kB/s | 2.9 kB     00:00
+Feb 21 05:04:26 2526126-co44688 dnf[230212]: Metadata cache created.
+Feb 21 05:04:26 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 05:04:26 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 05:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 05:50:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230297
+Feb 21 05:50:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 05:50:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230299
+Feb 21 06:44:38 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 06:44:39 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230409
+Feb 21 06:44:39 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 06:44:40 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230411
+Feb 21 06:59:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 06:59:23 2526126-co44688 dnf[230433]: Metadata cache refreshed recently.
+Feb 21 06:59:23 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 06:59:23 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 07:30:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 07:30:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230501
+Feb 21 07:30:23 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 07:30:24 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230503
+Feb 21 07:42:48 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 21 08:19:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 08:19:24 2526126-co44688 dnf[230606]: CentOS Stream 8 - AppStream                     8.7 kB/s | 4.4 kB     00:00
+Feb 21 08:19:24 2526126-co44688 dnf[230606]: CentOS Stream 8 - BaseOS                         11 kB/s | 3.9 kB     00:00
+Feb 21 08:19:25 2526126-co44688 dnf[230606]: CentOS Stream 8 - Extras                        8.1 kB/s | 2.9 kB     00:00
+Feb 21 08:19:25 2526126-co44688 dnf[230606]: CentOS Stream 8 - Extras common packages         11 kB/s | 3.0 kB     00:00
+Feb 21 08:19:25 2526126-co44688 dnf[230606]: packages for the GitHub CLI                      28 kB/s | 3.0 kB     00:00
+Feb 21 08:19:25 2526126-co44688 dnf[230606]: Zabbix Agent From Timeweb                       502 kB/s | 2.9 kB     00:00
+Feb 21 08:19:27 2526126-co44688 dnf[230606]: Metadata cache created.
+Feb 21 08:19:27 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 08:19:27 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 08:20:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 08:20:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230622
+Feb 21 08:20:23 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 08:20:24 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230624
+Feb 21 09:10:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 09:10:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230727
+Feb 21 09:10:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 09:10:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230729
+Feb 21 09:51:21 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 09:51:21 2526126-co44688 dnf[230905]: Metadata cache refreshed recently.
+Feb 21 09:51:21 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 09:51:21 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 10:00:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 10:00:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230995
+Feb 21 10:00:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 10:00:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 230998
+Feb 21 10:48:43 2526126-co44688 dhclient[771]: DHCPREQUEST on ens3 to 169.254.169.254 port 67 (xid=0x2b37166b)
+Feb 21 10:48:43 2526126-co44688 dhclient[771]: DHCPACK from 169.254.169.254 (xid=0x2b37166b)
+Feb 21 10:48:43 2526126-co44688 NetworkManager[681]: <info>  [1708501723.4828] dhcp4 (ens3):   address 89.223.124.90
+Feb 21 10:48:43 2526126-co44688 NetworkManager[681]: <info>  [1708501723.4829] dhcp4 (ens3):   plen 24 (255.255.255.0)
+Feb 21 10:48:43 2526126-co44688 NetworkManager[681]: <info>  [1708501723.4829] dhcp4 (ens3):   classless static route 169.254.169.0/24 gw 0.0.0.0
+Feb 21 10:48:43 2526126-co44688 NetworkManager[681]: <info>  [1708501723.4829] dhcp4 (ens3):   gateway 89.223.124.1
+Feb 21 10:48:43 2526126-co44688 NetworkManager[681]: <info>  [1708501723.4829] dhcp4 (ens3):   lease time 86400
+Feb 21 10:48:43 2526126-co44688 NetworkManager[681]: <info>  [1708501723.4830] dhcp4 (ens3):   nameserver '92.53.116.104'
+Feb 21 10:48:43 2526126-co44688 NetworkManager[681]: <info>  [1708501723.4830] dhcp4 (ens3):   nameserver '92.53.116.13'
+Feb 21 10:48:43 2526126-co44688 NetworkManager[681]: <info>  [1708501723.4830] dhcp4 (ens3): state changed new lease, address=89.223.124.90
+Feb 21 10:48:43 2526126-co44688 dhclient[771]: bound to 89.223.124.90 -- renewal in 39144 seconds.
+Feb 21 10:50:14 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 10:50:15 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 231166
+Feb 21 10:50:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 10:50:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 231168
+Feb 21 11:10:55 2526126-co44688 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 21 11:10:55 2526126-co44688 systemd[1]: systemd-tmpfiles-clean.service: Succeeded.
+Feb 21 11:10:55 2526126-co44688 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 21 11:40:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 11:40:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 231431
+Feb 21 11:40:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 11:40:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 231433
+Feb 21 11:46:01 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 11:46:03 2526126-co44688 dnf[231507]: CentOS Stream 8 - AppStream                     3.8 kB/s | 4.4 kB     00:01
+Feb 21 11:46:03 2526126-co44688 dnf[231507]: CentOS Stream 8 - BaseOS                         14 kB/s | 3.9 kB     00:00
+Feb 21 11:46:04 2526126-co44688 dnf[231507]: CentOS Stream 8 - Extras                         11 kB/s | 2.9 kB     00:00
+Feb 21 11:46:04 2526126-co44688 dnf[231507]: CentOS Stream 8 - Extras common packages        6.0 kB/s | 3.0 kB     00:00
+Feb 21 11:46:04 2526126-co44688 dnf[231507]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 21 11:46:04 2526126-co44688 dnf[231507]: Zabbix Agent From Timeweb                       494 kB/s | 2.9 kB     00:00
+Feb 21 11:46:06 2526126-co44688 dnf[231507]: Metadata cache created.
+Feb 21 11:46:06 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 11:46:06 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 12:00:45 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 21 12:30:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 12:30:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 232053
+Feb 21 12:30:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 12:30:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 232055
+Feb 21 13:02:06 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 13:02:06 2526126-co44688 dnf[232488]: Metadata cache refreshed recently.
+Feb 21 13:02:07 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 13:02:07 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 13:20:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 13:20:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 232755
+Feb 21 13:20:23 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 13:20:24 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 232757
+Feb 21 13:54:14 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 21 14:10:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 14:10:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 233605
+Feb 21 14:10:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 14:10:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 233607
+Feb 21 14:50:52 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 14:50:52 2526126-co44688 dnf[234048]: CentOS Stream 8 - AppStream                      17 kB/s | 4.4 kB     00:00
+Feb 21 14:50:53 2526126-co44688 dnf[234048]: CentOS Stream 8 - BaseOS                         18 kB/s | 3.9 kB     00:00
+Feb 21 14:50:53 2526126-co44688 dnf[234048]: CentOS Stream 8 - Extras                         18 kB/s | 2.9 kB     00:00
+Feb 21 14:50:53 2526126-co44688 dnf[234048]: CentOS Stream 8 - Extras common packages         14 kB/s | 3.0 kB     00:00
+Feb 21 14:50:53 2526126-co44688 dnf[234048]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 21 14:50:53 2526126-co44688 dnf[234048]: Zabbix Agent From Timeweb                       485 kB/s | 2.9 kB     00:00
+Feb 21 14:50:55 2526126-co44688 dnf[234048]: Metadata cache created.
+Feb 21 14:50:55 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 14:50:55 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 15:00:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 15:00:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 234124
+Feb 21 15:00:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 15:00:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 234126
+Feb 21 15:46:16 2526126-co44688 systemd[1]: Started Session 51 of user root.
+Feb 21 15:46:16 2526126-co44688 systemd-logind[600]: New session 51 of user root.
+Feb 21 15:48:20 2526126-co44688 systemd[1]: session-51.scope: Succeeded.
+Feb 21 15:48:20 2526126-co44688 systemd-logind[600]: Session 51 logged out. Waiting for processes to exit.
+Feb 21 15:48:20 2526126-co44688 systemd-logind[600]: Removed session 51.
+Feb 21 15:50:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 15:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 234538
+Feb 21 15:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 15:50:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 234540
+Feb 21 16:40:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 16:40:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 234991
+Feb 21 16:40:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 16:40:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 234993
+Feb 21 16:44:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 16:44:23 2526126-co44688 dnf[235041]: Metadata cache refreshed recently.
+Feb 21 16:44:23 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 16:44:23 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 16:47:08 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 21 17:25:34 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 21 17:30:14 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 17:30:15 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 235699
+Feb 21 17:30:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 17:30:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 235701
+Feb 21 18:20:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 18:20:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 236332
+Feb 21 18:20:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 18:20:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 236334
+Feb 21 18:23:33 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 18:23:34 2526126-co44688 dnf[236366]: CentOS Stream 8 - AppStream                      10 kB/s | 4.4 kB     00:00
+Feb 21 18:23:34 2526126-co44688 dnf[236366]: CentOS Stream 8 - BaseOS                         11 kB/s | 3.9 kB     00:00
+Feb 21 18:23:35 2526126-co44688 dnf[236366]: CentOS Stream 8 - Extras                        3.0 kB/s | 2.9 kB     00:00
+Feb 21 18:23:36 2526126-co44688 dnf[236366]: CentOS Stream 8 - Extras common packages         12 kB/s | 3.0 kB     00:00
+Feb 21 18:23:36 2526126-co44688 dnf[236366]: packages for the GitHub CLI                      26 kB/s | 3.0 kB     00:00
+Feb 21 18:23:36 2526126-co44688 dnf[236366]: Zabbix Agent From Timeweb                       492 kB/s | 2.9 kB     00:00
+Feb 21 18:23:38 2526126-co44688 dnf[236366]: Metadata cache created.
+Feb 21 18:23:38 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 18:23:38 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 18:53:19 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 21 19:10:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 19:10:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 236939
+Feb 21 19:10:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 19:10:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 236941
+Feb 21 20:00:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 20:00:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 237392
+Feb 21 20:00:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 20:00:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 237394
+Feb 21 20:11:38 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 20:11:38 2526126-co44688 dnf[237488]: Metadata cache refreshed recently.
+Feb 21 20:11:38 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 20:11:38 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 20:43:53 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 21 20:50:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 20:50:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 238276
+Feb 21 20:50:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 20:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 238278
+Feb 21 21:40:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 21:40:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 238593
+Feb 21 21:40:23 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 21:40:24 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 238595
+Feb 21 21:41:07 2526126-co44688 dhclient[771]: DHCPREQUEST on ens3 to 169.254.169.254 port 67 (xid=0x2b37166b)
+Feb 21 21:41:07 2526126-co44688 dhclient[771]: DHCPACK from 169.254.169.254 (xid=0x2b37166b)
+Feb 21 21:41:07 2526126-co44688 NetworkManager[681]: <info>  [1708540867.8170] dhcp4 (ens3):   address 89.223.124.90
+Feb 21 21:41:07 2526126-co44688 NetworkManager[681]: <info>  [1708540867.8171] dhcp4 (ens3):   plen 24 (255.255.255.0)
+Feb 21 21:41:07 2526126-co44688 NetworkManager[681]: <info>  [1708540867.8171] dhcp4 (ens3):   classless static route 169.254.169.0/24 gw 0.0.0.0
+Feb 21 21:41:07 2526126-co44688 NetworkManager[681]: <info>  [1708540867.8171] dhcp4 (ens3):   gateway 89.223.124.1
+Feb 21 21:41:07 2526126-co44688 NetworkManager[681]: <info>  [1708540867.8172] dhcp4 (ens3):   lease time 86400
+Feb 21 21:41:07 2526126-co44688 NetworkManager[681]: <info>  [1708540867.8172] dhcp4 (ens3):   nameserver '92.53.116.104'
+Feb 21 21:41:07 2526126-co44688 NetworkManager[681]: <info>  [1708540867.8172] dhcp4 (ens3):   nameserver '92.53.116.13'
+Feb 21 21:41:07 2526126-co44688 NetworkManager[681]: <info>  [1708540867.8172] dhcp4 (ens3): state changed new lease, address=89.223.124.90
+Feb 21 21:41:07 2526126-co44688 dhclient[771]: bound to 89.223.124.90 -- renewal in 42404 seconds.
+Feb 21 22:06:24 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 22:06:25 2526126-co44688 dnf[238757]: CentOS Stream 8 - AppStream                      12 kB/s | 4.4 kB     00:00
+Feb 21 22:06:29 2526126-co44688 dnf[238757]: CentOS Stream 8 - AppStream                     7.4 MB/s |  27 MB     00:03
+Feb 21 22:06:37 2526126-co44688 dnf[238757]: CentOS Stream 8 - BaseOS                         12 kB/s | 3.9 kB     00:00
+Feb 21 22:06:38 2526126-co44688 dnf[238757]: CentOS Stream 8 - BaseOS                        7.2 MB/s |  10 MB     00:01
+Feb 21 22:06:41 2526126-co44688 dnf[238757]: CentOS Stream 8 - Extras                         11 kB/s | 2.9 kB     00:00
+Feb 21 22:06:42 2526126-co44688 dnf[238757]: CentOS Stream 8 - Extras common packages         11 kB/s | 3.0 kB     00:00
+Feb 21 22:06:42 2526126-co44688 dnf[238757]: packages for the GitHub CLI                      17 kB/s | 3.0 kB     00:00
+Feb 21 22:06:42 2526126-co44688 dnf[238757]: Zabbix Agent From Timeweb                       472 kB/s | 2.9 kB     00:00
+Feb 21 22:06:45 2526126-co44688 dnf[238757]: Metadata cache created.
+Feb 21 22:06:45 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 22:06:45 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 22:30:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 22:30:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 239531
+Feb 21 22:30:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 22:30:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 239533
+Feb 21 22:47:15 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 21 23:20:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 21 23:20:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 240017
+Feb 21 23:20:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 21 23:20:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 240021
+Feb 21 23:36:14 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 21 23:36:15 2526126-co44688 dnf[240151]: Metadata cache refreshed recently.
+Feb 21 23:36:15 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 21 23:36:15 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 21 23:52:39 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 22 00:00:00 2526126-co44688 systemd[1]: Started Update a database for mlocate.
+Feb 22 00:00:00 2526126-co44688 systemd[1]: Starting update of the root trust anchor for DNSSEC validation in unbound...
+Feb 22 00:00:00 2526126-co44688 systemd[1]: unbound-anchor.service: Succeeded.
+Feb 22 00:00:00 2526126-co44688 systemd[1]: Started update of the root trust anchor for DNSSEC validation in unbound.
+Feb 22 00:00:00 2526126-co44688 systemd[1]: mlocate-updatedb.service: Succeeded.
+Feb 22 00:10:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 00:10:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 240509
+Feb 22 00:10:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 00:10:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 240513
+Feb 22 00:50:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 00:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 241089
+Feb 22 00:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 00:50:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 241091
+Feb 22 00:53:01 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 22 00:53:46 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 00:53:47 2526126-co44688 dnf[241132]: Metadata cache refreshed recently.
+Feb 22 00:53:47 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 00:53:47 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 01:40:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 01:40:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 241542
+Feb 22 01:40:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 01:40:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 241544
+Feb 22 02:15:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 02:15:23 2526126-co44688 dnf[241717]: CentOS Stream 8 - AppStream                      16 kB/s | 4.4 kB     00:00
+Feb 22 02:15:24 2526126-co44688 dnf[241717]: CentOS Stream 8 - BaseOS                         20 kB/s | 3.9 kB     00:00
+Feb 22 02:15:24 2526126-co44688 dnf[241717]: CentOS Stream 8 - Extras                         17 kB/s | 2.9 kB     00:00
+Feb 22 02:15:24 2526126-co44688 dnf[241717]: CentOS Stream 8 - Extras common packages         14 kB/s | 3.0 kB     00:00
+Feb 22 02:15:24 2526126-co44688 dnf[241717]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 22 02:15:24 2526126-co44688 dnf[241717]: Zabbix Agent From Timeweb                       467 kB/s | 2.9 kB     00:00
+Feb 22 02:15:27 2526126-co44688 dnf[241717]: Metadata cache created.
+Feb 22 02:15:27 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 02:15:27 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 02:30:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 02:30:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 241794
+Feb 22 02:30:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 02:30:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 241796
+Feb 22 03:18:56 2526126-co44688 zabbix_agentd[697]:   697:20240222:031856.454 failed to accept an incoming connection: from 77.223.103.53: reading first byte from connection failed: [104] Connection reset by peer
+Feb 22 03:18:56 2526126-co44688 zabbix_agentd[698]:   698:20240222:031856.472 failed to accept an incoming connection: connection from "77.223.103.53" rejected, allowed hosts: "92.53.116.12,92.53.116.111,92.53.116.119"
+Feb 22 03:18:56 2526126-co44688 zabbix_agentd[699]:   699:20240222:031856.507 failed to accept an incoming connection: from 77.223.103.53: support for TLS was not compiled in
+Feb 22 03:25:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 03:25:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 242271
+Feb 22 03:25:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 03:25:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 242273
+Feb 22 04:07:05 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 04:07:05 2526126-co44688 dnf[242714]: Metadata cache refreshed recently.
+Feb 22 04:07:05 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 04:07:05 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 04:08:21 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 22 04:21:55 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 04:21:56 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 242833
+Feb 22 04:21:56 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 04:21:57 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 242835
+Feb 22 05:00:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 05:00:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 243167
+Feb 22 05:00:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 05:00:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 243169
+Feb 22 05:24:16 2526126-co44688 zabbix_agentd[699]:   699:20240222:052416.297 failed to accept an incoming connection: connection from "94.232.41.155" rejected, allowed hosts: "92.53.116.12,92.53.116.111,92.53.116.119"
+Feb 22 05:50:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 05:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 243734
+Feb 22 05:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 05:50:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 243736
+Feb 22 05:58:59 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 05:59:01 2526126-co44688 dnf[243822]: CentOS Stream 8 - AppStream                     4.5 kB/s | 4.4 kB     00:00
+Feb 22 05:59:01 2526126-co44688 dnf[243822]: CentOS Stream 8 - BaseOS                         18 kB/s | 3.9 kB     00:00
+Feb 22 05:59:01 2526126-co44688 dnf[243822]: CentOS Stream 8 - Extras                         14 kB/s | 2.9 kB     00:00
+Feb 22 05:59:02 2526126-co44688 dnf[243822]: CentOS Stream 8 - Extras common packages         15 kB/s | 3.0 kB     00:00
+Feb 22 05:59:02 2526126-co44688 dnf[243822]: packages for the GitHub CLI                      27 kB/s | 3.0 kB     00:00
+Feb 22 05:59:02 2526126-co44688 dnf[243822]: Zabbix Agent From Timeweb                       484 kB/s | 2.9 kB     00:00
+Feb 22 05:59:04 2526126-co44688 dnf[243822]: Metadata cache created.
+Feb 22 05:59:04 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 05:59:04 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 06:40:23 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 06:40:24 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 244184
+Feb 22 06:40:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 06:40:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 244186
+Feb 22 07:14:10 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 22 07:23:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 07:23:23 2526126-co44688 dnf[244466]: Metadata cache refreshed recently.
+Feb 22 07:23:23 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 07:23:23 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 07:30:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 07:30:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 244518
+Feb 22 07:30:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 07:30:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 244520
+Feb 22 08:24:42 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 22 08:27:39 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 08:27:40 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 245295
+Feb 22 08:27:40 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 08:27:41 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 245299
+Feb 22 08:39:34 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 08:39:34 2526126-co44688 dnf[245633]: Metadata cache refreshed recently.
+Feb 22 08:39:35 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 08:39:35 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 08:54:47 2526126-co44688 zabbix_agentd[699]:   699:20240222:085447.450 failed to accept an incoming connection: connection from "94.232.41.155" rejected, allowed hosts: "92.53.116.12,92.53.116.111,92.53.116.119"
+Feb 22 09:07:56 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 22 09:10:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 09:10:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 245958
+Feb 22 09:10:26 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 09:10:27 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 245960
+Feb 22 09:27:51 2526126-co44688 dhclient[771]: DHCPREQUEST on ens3 to 169.254.169.254 port 67 (xid=0x2b37166b)
+Feb 22 09:27:51 2526126-co44688 dhclient[771]: DHCPACK from 169.254.169.254 (xid=0x2b37166b)
+Feb 22 09:27:51 2526126-co44688 NetworkManager[681]: <info>  [1708583271.5514] dhcp4 (ens3):   address 89.223.124.90
+Feb 22 09:27:51 2526126-co44688 NetworkManager[681]: <info>  [1708583271.5515] dhcp4 (ens3):   plen 24 (255.255.255.0)
+Feb 22 09:27:51 2526126-co44688 NetworkManager[681]: <info>  [1708583271.5516] dhcp4 (ens3):   classless static route 169.254.169.0/24 gw 0.0.0.0
+Feb 22 09:27:51 2526126-co44688 NetworkManager[681]: <info>  [1708583271.5516] dhcp4 (ens3):   gateway 89.223.124.1
+Feb 22 09:27:51 2526126-co44688 NetworkManager[681]: <info>  [1708583271.5517] dhcp4 (ens3):   lease time 86400
+Feb 22 09:27:51 2526126-co44688 NetworkManager[681]: <info>  [1708583271.5517] dhcp4 (ens3):   nameserver '92.53.116.104'
+Feb 22 09:27:51 2526126-co44688 NetworkManager[681]: <info>  [1708583271.5517] dhcp4 (ens3):   nameserver '92.53.116.13'
+Feb 22 09:27:51 2526126-co44688 NetworkManager[681]: <info>  [1708583271.5518] dhcp4 (ens3): state changed new lease, address=89.223.124.90
+Feb 22 09:27:51 2526126-co44688 dhclient[771]: bound to 89.223.124.90 -- renewal in 33584 seconds.
+Feb 22 09:40:41 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 09:40:42 2526126-co44688 dnf[246415]: CentOS Stream 8 - AppStream                     4.5 kB/s | 4.4 kB     00:00
+Feb 22 09:40:44 2526126-co44688 dnf[246415]: CentOS Stream 8 - BaseOS                        4.6 kB/s | 3.9 kB     00:00
+Feb 22 09:40:44 2526126-co44688 dnf[246415]: CentOS Stream 8 - Extras                         26 kB/s | 2.9 kB     00:00
+Feb 22 09:40:44 2526126-co44688 dnf[246415]: CentOS Stream 8 - Extras common packages         27 kB/s | 3.0 kB     00:00
+Feb 22 09:40:44 2526126-co44688 dnf[246415]: packages for the GitHub CLI                      27 kB/s | 3.0 kB     00:00
+Feb 22 09:40:44 2526126-co44688 dnf[246415]: Zabbix Agent From Timeweb                       500 kB/s | 2.9 kB     00:00
+Feb 22 09:40:46 2526126-co44688 dnf[246415]: Metadata cache created.
+Feb 22 09:40:46 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 09:40:46 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 10:00:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 10:00:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 247359
+Feb 22 10:00:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 10:00:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 247361
+Feb 22 10:01:24 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 22 10:50:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 10:50:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 248178
+Feb 22 10:50:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 10:50:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 248180
+Feb 22 11:11:17 2526126-co44688 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 22 11:11:17 2526126-co44688 systemd[1]: systemd-tmpfiles-clean.service: Succeeded.
+Feb 22 11:11:17 2526126-co44688 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 22 11:35:10 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 22 11:35:59 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 11:36:00 2526126-co44688 dnf[248952]: Metadata cache refreshed recently.
+Feb 22 11:36:00 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 11:36:00 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 11:40:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 11:40:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 249100
+Feb 22 11:40:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 11:40:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 249104
+Feb 22 12:30:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 12:30:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 249639
+Feb 22 12:30:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 12:30:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 249641
+Feb 22 12:33:34 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 22 12:38:55 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 12:38:55 2526126-co44688 dnf[249720]: Metadata cache refreshed recently.
+Feb 22 12:38:55 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 12:38:55 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 13:20:12 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 13:20:13 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 250101
+Feb 22 13:20:13 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 13:20:14 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 250103
+Feb 22 13:46:54 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 22 14:10:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 14:10:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 250642
+Feb 22 14:10:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 14:10:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 250644
+Feb 22 14:18:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 14:18:23 2526126-co44688 dnf[250708]: CentOS Stream 8 - AppStream                      39 kB/s | 4.4 kB     00:00
+Feb 22 14:18:24 2526126-co44688 dnf[250708]: CentOS Stream 8 - BaseOS                         20 kB/s | 3.9 kB     00:00
+Feb 22 14:18:24 2526126-co44688 dnf[250708]: CentOS Stream 8 - Extras                         17 kB/s | 2.9 kB     00:00
+Feb 22 14:18:24 2526126-co44688 dnf[250708]: CentOS Stream 8 - Extras common packages         14 kB/s | 3.0 kB     00:00
+Feb 22 14:18:24 2526126-co44688 dnf[250708]: packages for the GitHub CLI                      18 kB/s | 3.0 kB     00:00
+Feb 22 14:18:24 2526126-co44688 dnf[250708]: Zabbix Agent From Timeweb                       478 kB/s | 2.9 kB     00:00
+Feb 22 14:18:27 2526126-co44688 dnf[250708]: Metadata cache created.
+Feb 22 14:18:27 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 14:18:27 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 15:00:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 15:00:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 251057
+Feb 22 15:00:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 15:00:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 251059
+Feb 22 15:36:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 15:36:23 2526126-co44688 dnf[251256]: Metadata cache refreshed recently.
+Feb 22 15:36:23 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 15:36:23 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 15:50:14 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 15:50:15 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 251347
+Feb 22 15:50:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 15:50:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 251349
+Feb 22 16:40:14 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 16:40:15 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 251586
+Feb 22 16:40:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 16:40:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 251588
+Feb 22 17:30:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 17:30:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 251738
+Feb 22 17:30:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 17:30:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 251740
+Feb 22 17:35:23 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 17:35:23 2526126-co44688 dnf[251754]: CentOS Stream 8 - AppStream                      12 kB/s | 4.4 kB     00:00
+Feb 22 17:35:24 2526126-co44688 dnf[251754]: CentOS Stream 8 - BaseOS                         11 kB/s | 3.9 kB     00:00
+Feb 22 17:35:24 2526126-co44688 dnf[251754]: CentOS Stream 8 - Extras                        7.8 kB/s | 2.9 kB     00:00
+Feb 22 17:35:25 2526126-co44688 dnf[251754]: CentOS Stream 8 - Extras common packages         11 kB/s | 3.0 kB     00:00
+Feb 22 17:35:25 2526126-co44688 dnf[251754]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 22 17:35:25 2526126-co44688 dnf[251754]: Zabbix Agent From Timeweb                       497 kB/s | 2.9 kB     00:00
+Feb 22 17:35:27 2526126-co44688 dnf[251754]: Metadata cache created.
+Feb 22 17:35:27 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 17:35:27 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 18:20:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 18:20:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 251944
+Feb 22 18:20:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 18:20:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 251946
+Feb 22 18:47:35 2526126-co44688 dhclient[771]: DHCPREQUEST on ens3 to 169.254.169.254 port 67 (xid=0x2b37166b)
+Feb 22 18:47:35 2526126-co44688 dhclient[771]: DHCPACK from 169.254.169.254 (xid=0x2b37166b)
+Feb 22 18:47:35 2526126-co44688 NetworkManager[681]: <info>  [1708616855.8550] dhcp4 (ens3):   address 89.223.124.90
+Feb 22 18:47:35 2526126-co44688 NetworkManager[681]: <info>  [1708616855.8551] dhcp4 (ens3):   plen 24 (255.255.255.0)
+Feb 22 18:47:35 2526126-co44688 NetworkManager[681]: <info>  [1708616855.8552] dhcp4 (ens3):   classless static route 169.254.169.0/24 gw 0.0.0.0
+Feb 22 18:47:35 2526126-co44688 NetworkManager[681]: <info>  [1708616855.8552] dhcp4 (ens3):   gateway 89.223.124.1
+Feb 22 18:47:35 2526126-co44688 NetworkManager[681]: <info>  [1708616855.8552] dhcp4 (ens3):   lease time 86400
+Feb 22 18:47:35 2526126-co44688 NetworkManager[681]: <info>  [1708616855.8552] dhcp4 (ens3):   nameserver '92.53.116.104'
+Feb 22 18:47:35 2526126-co44688 NetworkManager[681]: <info>  [1708616855.8552] dhcp4 (ens3):   nameserver '92.53.116.13'
+Feb 22 18:47:35 2526126-co44688 NetworkManager[681]: <info>  [1708616855.8552] dhcp4 (ens3): state changed new lease, address=89.223.124.90
+Feb 22 18:47:35 2526126-co44688 dhclient[771]: bound to 89.223.124.90 -- renewal in 35902 seconds.
+Feb 22 18:51:52 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 18:51:52 2526126-co44688 dnf[252102]: Metadata cache refreshed recently.
+Feb 22 18:51:52 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 18:51:52 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 18:59:52 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 22 19:10:13 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 19:10:14 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 252239
+Feb 22 19:10:14 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 19:10:15 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 252241
+Feb 22 19:54:46 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 19:54:46 2526126-co44688 dnf[252632]: Metadata cache refreshed recently.
+Feb 22 19:54:46 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 19:54:46 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 20:00:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 20:00:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 252699
+Feb 22 20:00:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 20:00:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 252701
+Feb 22 20:50:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 20:50:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 253307
+Feb 22 20:50:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 20:50:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 253309
+Feb 22 21:12:15 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 22 21:29:58 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 21:30:00 2526126-co44688 dnf[253895]: CentOS Stream 8 - AppStream                     1.9 kB/s | 4.4 kB     00:02
+Feb 22 21:30:02 2526126-co44688 dnf[253895]: CentOS Stream 8 - BaseOS                        3.0 kB/s | 3.9 kB     00:01
+Feb 22 21:30:02 2526126-co44688 dnf[253895]: CentOS Stream 8 - Extras                        7.1 kB/s | 2.9 kB     00:00
+Feb 22 21:30:03 2526126-co44688 dnf[253895]: CentOS Stream 8 - Extras common packages        8.9 kB/s | 3.0 kB     00:00
+Feb 22 21:30:03 2526126-co44688 dnf[253895]: packages for the GitHub CLI                      23 kB/s | 3.0 kB     00:00
+Feb 22 21:30:03 2526126-co44688 dnf[253895]: Zabbix Agent From Timeweb                       492 kB/s | 2.9 kB     00:00
+Feb 22 21:30:05 2526126-co44688 dnf[253895]: Metadata cache created.
+Feb 22 21:30:05 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 21:30:05 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 21:40:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 21:40:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 254062
+Feb 22 21:40:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 21:40:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 254064
+Feb 22 22:10:50 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 22 22:30:18 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 22:30:19 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 254803
+Feb 22 22:30:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 22:30:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 254807
+Feb 22 22:49:37 2526126-co44688 systemd[1]: Started Session 52 of user root.
+Feb 22 22:49:37 2526126-co44688 systemd-logind[600]: New session 52 of user root.
+Feb 22 22:52:11 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 22 22:52:53 2526126-co44688 systemd[1]: Started Session 53 of user root.
+Feb 22 22:52:53 2526126-co44688 systemd-logind[600]: New session 53 of user root.
+Feb 22 22:55:44 2526126-co44688 systemd-logind[600]: Session 53 logged out. Waiting for processes to exit.
+Feb 22 22:57:02 2526126-co44688 systemd[1]: Started Session 54 of user root.
+Feb 22 22:57:02 2526126-co44688 systemd-logind[600]: New session 54 of user root.
+Feb 22 22:57:08 2526126-co44688 systemd[1]: Started Session 55 of user root.
+Feb 22 22:57:08 2526126-co44688 systemd-logind[600]: New session 55 of user root.
+Feb 22 22:57:21 2526126-co44688 systemd-logind[600]: Session 54 logged out. Waiting for processes to exit.
+Feb 22 22:57:22 2526126-co44688 systemd-logind[600]: Session 55 logged out. Waiting for processes to exit.
+Feb 22 22:57:25 2526126-co44688 systemd[1]: Started Session 56 of user root.
+Feb 22 22:57:25 2526126-co44688 systemd-logind[600]: New session 56 of user root.
+Feb 22 22:57:32 2526126-co44688 systemd[1]: Started Session 57 of user root.
+Feb 22 22:57:32 2526126-co44688 systemd-logind[600]: New session 57 of user root.
+Feb 22 23:00:03 2526126-co44688 systemd[1]: session-54.scope: Succeeded.
+Feb 22 23:00:03 2526126-co44688 systemd-logind[600]: Removed session 54.
+Feb 22 23:00:10 2526126-co44688 systemd[1]: session-55.scope: Succeeded.
+Feb 22 23:00:10 2526126-co44688 systemd-logind[600]: Removed session 55.
+Feb 22 23:03:39 2526126-co44688 systemd-logind[600]: Session 56 logged out. Waiting for processes to exit.
+Feb 22 23:03:39 2526126-co44688 systemd-logind[600]: Session 57 logged out. Waiting for processes to exit.
+Feb 22 23:03:40 2526126-co44688 systemd[1]: session-52.scope: Succeeded.
+Feb 22 23:03:40 2526126-co44688 systemd-logind[600]: Session 52 logged out. Waiting for processes to exit.
+Feb 22 23:03:40 2526126-co44688 systemd-logind[600]: Removed session 52.
+Feb 22 23:05:07 2526126-co44688 systemd[1]: Started Session 58 of user root.
+Feb 22 23:05:07 2526126-co44688 systemd-logind[600]: New session 58 of user root.
+Feb 22 23:05:10 2526126-co44688 systemd[1]: Started Session 59 of user root.
+Feb 22 23:05:10 2526126-co44688 systemd-logind[600]: New session 59 of user root.
+Feb 22 23:05:16 2526126-co44688 systemd-logind[600]: Session 58 logged out. Waiting for processes to exit.
+Feb 22 23:05:16 2526126-co44688 systemd-logind[600]: Session 59 logged out. Waiting for processes to exit.
+Feb 22 23:05:18 2526126-co44688 systemd[1]: Started Session 60 of user root.
+Feb 22 23:05:18 2526126-co44688 systemd-logind[600]: New session 60 of user root.
+Feb 22 23:05:22 2526126-co44688 systemd[1]: Started Session 61 of user root.
+Feb 22 23:05:22 2526126-co44688 systemd-logind[600]: New session 61 of user root.
+Feb 22 23:06:13 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 22 23:06:21 2526126-co44688 dnf[256379]: Metadata cache refreshed recently.
+Feb 22 23:06:21 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 22 23:06:21 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 22 23:06:25 2526126-co44688 systemd[1]: session-56.scope: Succeeded.
+Feb 22 23:06:25 2526126-co44688 systemd-logind[600]: Removed session 56.
+Feb 22 23:06:33 2526126-co44688 systemd[1]: session-57.scope: Succeeded.
+Feb 22 23:06:33 2526126-co44688 systemd-logind[600]: Removed session 57.
+Feb 22 23:08:09 2526126-co44688 systemd[1]: session-58.scope: Succeeded.
+Feb 22 23:08:09 2526126-co44688 systemd-logind[600]: Removed session 58.
+Feb 22 23:08:53 2526126-co44688 sshd[256599]: /usr/sbin/sshd: error while loading shared libraries: libblkid.so.1: failed to map segment from shared object
+Feb 22 23:08:59 2526126-co44688 kernel: Core dump to |/usr/lib/systemd/systemd-coredump 256323 0 0 6 1708632539 0 2526126-co44688.twc1.net tokio-runtime-w pipe failed
+Feb 22 23:09:09 2526126-co44688 systemd[1]: session-59.scope: Succeeded.
+Feb 22 23:09:09 2526126-co44688 systemd-logind[600]: Removed session 59.
+Feb 22 23:11:44 2526126-co44688 systemd-logind[600]: Session 60 logged out. Waiting for processes to exit.
+Feb 22 23:11:45 2526126-co44688 systemd-logind[600]: Session 61 logged out. Waiting for processes to exit.
+Feb 22 23:14:20 2526126-co44688 systemd[1]: session-60.scope: Succeeded.
+Feb 22 23:14:20 2526126-co44688 systemd-logind[600]: Removed session 60.
+Feb 22 23:14:23 2526126-co44688 systemd[1]: session-61.scope: Succeeded.
+Feb 22 23:14:23 2526126-co44688 systemd-logind[600]: Removed session 61.
+Feb 22 23:16:52 2526126-co44688 systemd[1]: session-53.scope: Succeeded.
+Feb 22 23:16:52 2526126-co44688 systemd-logind[600]: Removed session 53.
+Feb 22 23:20:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 22 23:20:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 256848
+Feb 22 23:20:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 22 23:20:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 256850
+Feb 23 00:00:03 2526126-co44688 systemd[1]: Started Update a database for mlocate.
+Feb 23 00:00:03 2526126-co44688 systemd[1]: Starting update of the root trust anchor for DNSSEC validation in unbound...
+Feb 23 00:00:03 2526126-co44688 systemd[1]: unbound-anchor.service: Succeeded.
+Feb 23 00:00:03 2526126-co44688 systemd[1]: Started update of the root trust anchor for DNSSEC validation in unbound.
+Feb 23 00:00:04 2526126-co44688 systemd[1]: mlocate-updatedb.service: Succeeded.
+Feb 23 00:10:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 00:10:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 257103
+Feb 23 00:10:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 00:10:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 257105
+Feb 23 00:50:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 00:50:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 257770
+Feb 23 00:50:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 00:50:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 257776
+Feb 23 00:51:05 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 23 00:51:05 2526126-co44688 dnf[257802]: CentOS Stream 8 - AppStream                      37 kB/s | 4.4 kB     00:00
+Feb 23 00:51:06 2526126-co44688 dnf[257802]: CentOS Stream 8 - BaseOS                         23 kB/s | 3.9 kB     00:00
+Feb 23 00:51:06 2526126-co44688 dnf[257802]: CentOS Stream 8 - Extras                         17 kB/s | 2.9 kB     00:00
+Feb 23 00:51:06 2526126-co44688 dnf[257802]: CentOS Stream 8 - Extras common packages         25 kB/s | 3.0 kB     00:00
+Feb 23 00:51:06 2526126-co44688 dnf[257802]: packages for the GitHub CLI                      14 kB/s | 3.0 kB     00:00
+Feb 23 00:51:06 2526126-co44688 dnf[257802]: Zabbix Agent From Timeweb                       487 kB/s | 2.9 kB     00:00
+Feb 23 00:51:09 2526126-co44688 dnf[257802]: Metadata cache created.
+Feb 23 00:51:09 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 23 00:51:09 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 23 01:06:15 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 23 01:40:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 01:40:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 259064
+Feb 23 01:40:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 01:40:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 259066
+Feb 23 02:30:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 02:30:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 259373
+Feb 23 02:30:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 02:30:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 259375
+Feb 23 02:37:16 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 23 02:37:17 2526126-co44688 dnf[259448]: Metadata cache refreshed recently.
+Feb 23 02:37:17 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 23 02:37:17 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 23 03:13:46 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 23 03:20:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 03:20:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 260043
+Feb 23 03:20:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 03:20:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 260045
+Feb 23 03:43:29 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 23 03:43:29 2526126-co44688 dnf[260339]: Metadata cache refreshed recently.
+Feb 23 03:43:29 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 23 03:43:29 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 23 04:02:58 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 23 04:10:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 04:10:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 260704
+Feb 23 04:10:17 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 04:10:18 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 260706
+Feb 23 04:45:57 2526126-co44688 dhclient[771]: DHCPREQUEST on ens3 to 169.254.169.254 port 67 (xid=0x2b37166b)
+Feb 23 04:45:57 2526126-co44688 dhclient[771]: DHCPACK from 169.254.169.254 (xid=0x2b37166b)
+Feb 23 04:45:58 2526126-co44688 NetworkManager[681]: <info>  [1708652758.0121] dhcp4 (ens3):   address 89.223.124.90
+Feb 23 04:45:58 2526126-co44688 NetworkManager[681]: <info>  [1708652758.0123] dhcp4 (ens3):   plen 24 (255.255.255.0)
+Feb 23 04:45:58 2526126-co44688 NetworkManager[681]: <info>  [1708652758.0124] dhcp4 (ens3):   classless static route 169.254.169.0/24 gw 0.0.0.0
+Feb 23 04:45:58 2526126-co44688 NetworkManager[681]: <info>  [1708652758.0124] dhcp4 (ens3):   gateway 89.223.124.1
+Feb 23 04:45:58 2526126-co44688 NetworkManager[681]: <info>  [1708652758.0124] dhcp4 (ens3):   lease time 86400
+Feb 23 04:45:58 2526126-co44688 NetworkManager[681]: <info>  [1708652758.0124] dhcp4 (ens3):   nameserver '92.53.116.104'
+Feb 23 04:45:58 2526126-co44688 NetworkManager[681]: <info>  [1708652758.0125] dhcp4 (ens3):   nameserver '92.53.116.13'
+Feb 23 04:45:58 2526126-co44688 NetworkManager[681]: <info>  [1708652758.0125] dhcp4 (ens3): state changed new lease, address=89.223.124.90
+Feb 23 04:45:58 2526126-co44688 dhclient[771]: bound to 89.223.124.90 -- renewal in 32711 seconds.
+Feb 23 04:55:04 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 23 04:55:04 2526126-co44688 dnf[261187]: CentOS Stream 8 - AppStream                      46 kB/s | 4.4 kB     00:00
+Feb 23 04:55:05 2526126-co44688 dnf[261187]: CentOS Stream 8 - BaseOS                         26 kB/s | 3.9 kB     00:00
+Feb 23 04:55:05 2526126-co44688 dnf[261187]: CentOS Stream 8 - Extras                         26 kB/s | 2.9 kB     00:00
+Feb 23 04:55:05 2526126-co44688 dnf[261187]: CentOS Stream 8 - Extras common packages         28 kB/s | 3.0 kB     00:00
+Feb 23 04:55:05 2526126-co44688 dnf[261187]: packages for the GitHub CLI                      18 kB/s | 3.0 kB     00:00
+Feb 23 04:55:05 2526126-co44688 dnf[261187]: Zabbix Agent From Timeweb                       474 kB/s | 2.9 kB     00:00
+Feb 23 04:55:07 2526126-co44688 dnf[261187]: Metadata cache created.
+Feb 23 04:55:08 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 23 04:55:08 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 23 05:00:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 05:00:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 261247
+Feb 23 05:00:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 05:00:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 261249
+Feb 23 05:27:58 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 23 05:50:13 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 05:50:14 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 261815
+Feb 23 05:50:14 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 05:50:15 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 261817
+Feb 23 06:07:21 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 23 06:07:21 2526126-co44688 dnf[262172]: Metadata cache refreshed recently.
+Feb 23 06:07:21 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 23 06:07:21 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 23 06:40:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 06:40:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 262776
+Feb 23 06:40:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 06:40:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 262780
+Feb 23 06:50:40 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 23 07:16:38 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 23 07:16:39 2526126-co44688 dnf[263625]: Metadata cache refreshed recently.
+Feb 23 07:16:39 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 23 07:16:39 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 23 07:30:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 07:30:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 263984
+Feb 23 07:30:16 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 07:30:17 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 263986
+Feb 23 07:46:31 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 23 08:02:40 2526126-co44688 zabbix_agentd[699]:   699:20240223:080240.702 failed to accept an incoming connection: from 162.216.150.40: support for TLS was not compiled in
+Feb 23 08:02:40 2526126-co44688 zabbix_agentd[698]:   698:20240223:080240.978 failed to accept an incoming connection: from 162.216.150.40: support for TLS was not compiled in
+Feb 23 08:14:46 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 23 08:20:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 08:20:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 265246
+Feb 23 08:20:21 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 08:20:22 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 265248
+Feb 23 08:24:31 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 23 08:24:32 2526126-co44688 dnf[265346]: CentOS Stream 8 - AppStream                      45 kB/s | 4.4 kB     00:00
+Feb 23 08:24:32 2526126-co44688 dnf[265346]: CentOS Stream 8 - BaseOS                         22 kB/s | 3.9 kB     00:00
+Feb 23 08:24:33 2526126-co44688 dnf[265346]: CentOS Stream 8 - Extras                         17 kB/s | 2.9 kB     00:00
+Feb 23 08:24:33 2526126-co44688 dnf[265346]: CentOS Stream 8 - Extras common packages         14 kB/s | 3.0 kB     00:00
+Feb 23 08:24:33 2526126-co44688 dnf[265346]: packages for the GitHub CLI                      17 kB/s | 3.0 kB     00:00
+Feb 23 08:24:33 2526126-co44688 dnf[265346]: Zabbix Agent From Timeweb                       501 kB/s | 2.9 kB     00:00
+Feb 23 08:24:35 2526126-co44688 dnf[265346]: Metadata cache created.
+Feb 23 08:24:35 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 23 08:24:35 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 23 08:44:22 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 23 09:12:27 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 09:12:28 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 266662
+Feb 23 09:12:28 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 09:12:29 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 266664
+Feb 23 09:40:10 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 23 09:55:56 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 23 09:55:56 2526126-co44688 dnf[267756]: Metadata cache refreshed recently.
+Feb 23 09:55:57 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 23 09:55:57 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 23 10:00:22 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 10:00:23 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 267876
+Feb 23 10:00:23 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 10:00:24 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 267878
+Feb 23 10:34:07 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 23 10:50:26 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 10:50:27 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 269168
+Feb 23 10:50:27 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 10:50:28 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 269170
+Feb 23 10:59:44 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 23 11:11:22 2526126-co44688 systemd[1]: Starting Cleanup of Temporary Directories...
+Feb 23 11:11:22 2526126-co44688 systemd[1]: systemd-tmpfiles-clean.service: Succeeded.
+Feb 23 11:11:22 2526126-co44688 systemd[1]: Started Cleanup of Temporary Directories.
+Feb 23 11:33:19 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 23 11:40:24 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 11:40:25 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 270291
+Feb 23 11:40:25 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 11:40:26 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 270293
+Feb 23 11:41:37 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 23 11:41:37 2526126-co44688 dnf[270315]: CentOS Stream 8 - AppStream                      16 kB/s | 4.4 kB     00:00
+Feb 23 11:41:38 2526126-co44688 dnf[270315]: CentOS Stream 8 - BaseOS                        8.7 kB/s | 3.9 kB     00:00
+Feb 23 11:41:39 2526126-co44688 dnf[270315]: CentOS Stream 8 - Extras                        6.7 kB/s | 2.9 kB     00:00
+Feb 23 11:41:39 2526126-co44688 dnf[270315]: CentOS Stream 8 - Extras common packages        9.5 kB/s | 3.0 kB     00:00
+Feb 23 11:41:39 2526126-co44688 dnf[270315]: packages for the GitHub CLI                      26 kB/s | 3.0 kB     00:00
+Feb 23 11:41:39 2526126-co44688 dnf[270315]: Zabbix Agent From Timeweb                       355 kB/s | 2.9 kB     00:00
+Feb 23 11:41:41 2526126-co44688 dnf[270315]: Metadata cache created.
+Feb 23 11:41:41 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 23 11:41:41 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 23 12:14:22 2526126-co44688 zabbix_agentd[699]:   699:20240223:121422.831 failed to accept an incoming connection: connection from "45.125.66.24" rejected, allowed hosts: "92.53.116.12,92.53.116.111,92.53.116.119"
+Feb 23 12:30:14 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 12:30:15 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 271133
+Feb 23 12:30:15 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 12:30:16 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 271135
+Feb 23 12:47:17 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 23 12:47:18 2526126-co44688 dnf[271395]: Metadata cache refreshed recently.
+Feb 23 12:47:18 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 23 12:47:18 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 23 12:55:16 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 23 13:20:19 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 13:20:20 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 272051
+Feb 23 13:20:20 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 13:20:21 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 272053
+Feb 23 13:21:10 2526126-co44688 zabbix_agentd[697]:   697:20240223:132110.581 failed to accept an incoming connection: connection from "45.125.66.24" rejected, allowed hosts: "92.53.116.12,92.53.116.111,92.53.116.119"
+Feb 23 13:51:10 2526126-co44688 dhclient[771]: DHCPREQUEST on ens3 to 169.254.169.254 port 67 (xid=0x2b37166b)
+Feb 23 13:51:10 2526126-co44688 dhclient[771]: DHCPACK from 169.254.169.254 (xid=0x2b37166b)
+Feb 23 13:51:10 2526126-co44688 NetworkManager[681]: <info>  [1708685470.0277] dhcp4 (ens3):   address 89.223.124.90
+Feb 23 13:51:10 2526126-co44688 NetworkManager[681]: <info>  [1708685470.0278] dhcp4 (ens3):   plen 24 (255.255.255.0)
+Feb 23 13:51:10 2526126-co44688 NetworkManager[681]: <info>  [1708685470.0279] dhcp4 (ens3):   classless static route 169.254.169.0/24 gw 0.0.0.0
+Feb 23 13:51:10 2526126-co44688 NetworkManager[681]: <info>  [1708685470.0279] dhcp4 (ens3):   gateway 89.223.124.1
+Feb 23 13:51:10 2526126-co44688 NetworkManager[681]: <info>  [1708685470.0280] dhcp4 (ens3):   lease time 86400
+Feb 23 13:51:10 2526126-co44688 NetworkManager[681]: <info>  [1708685470.0280] dhcp4 (ens3):   nameserver '92.53.116.104'
+Feb 23 13:51:10 2526126-co44688 NetworkManager[681]: <info>  [1708685470.0280] dhcp4 (ens3):   nameserver '92.53.116.13'
+Feb 23 13:51:10 2526126-co44688 NetworkManager[681]: <info>  [1708685470.0280] dhcp4 (ens3): state changed new lease, address=89.223.124.90
+Feb 23 13:51:10 2526126-co44688 dhclient[771]: bound to 89.223.124.90 -- renewal in 42150 seconds.
+Feb 23 14:10:07 2526126-co44688 rsyslogd[1057]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 23 14:10:13 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 14:10:14 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 272929
+Feb 23 14:10:14 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 14:10:15 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 272931
+Feb 23 14:12:35 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 23 14:12:35 2526126-co44688 dnf[272965]: Metadata cache refreshed recently.
+Feb 23 14:12:35 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 23 14:12:35 2526126-co44688 systemd[1]: Started dnf makecache.
+Feb 23 14:19:11 2526126-co44688 zabbix_agentd[698]:   698:20240223:141911.295 failed to accept an incoming connection: connection from "45.125.66.24" rejected, allowed hosts: "92.53.116.12,92.53.116.111,92.53.116.119"
+Feb 23 14:31:59 2526126-co44688 systemd[1]: Started Session 62 of user root.
+Feb 23 14:31:59 2526126-co44688 systemd-logind[600]: New session 62 of user root.
+Feb 23 14:32:13 2526126-co44688 systemd-logind[600]: Session 62 logged out. Waiting for processes to exit.
+Feb 23 14:32:17 2526126-co44688 systemd[1]: Started Session 63 of user root.
+Feb 23 14:32:17 2526126-co44688 systemd-logind[600]: New session 63 of user root.
+Feb 23 14:47:55 2526126-co44688 root[274160]: dimon limon
+Feb 23 14:49:39 2526126-co44688 root[274251]: dimon limon
+Feb 23 14:50:52 2526126-co44688 root[274361]: test dimon limon
+Feb 23 14:51:23 2526126-co44688 systemd[1]: Stopping System Logging Service...
+Feb 23 14:51:23 2526126-co44688 rsyslogd[1057]: [origin software="rsyslogd" swVersion="8.2102.0-15.el8" x-pid="1057" x-info="https://www.rsyslog.com"] exiting on signal 15.
+Feb 23 14:51:23 2526126-co44688 systemd[1]: rsyslog.service: Succeeded.
+Feb 23 14:51:23 2526126-co44688 systemd[1]: Stopped System Logging Service.
+Feb 23 14:51:23 2526126-co44688 systemd[1]: Starting System Logging Service...
+Feb 23 14:51:23 2526126-co44688 rsyslogd[274437]: [origin software="rsyslogd" swVersion="8.2102.0-15.el8" x-pid="274437" x-info="https://www.rsyslog.com"] start
+Feb 23 14:51:23 2526126-co44688 systemd[1]: Started System Logging Service.
+Feb 23 14:51:23 2526126-co44688 rsyslogd[274437]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Feb 23 15:00:29 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c lsblk --list -o NAME,FSTYPE --noheadings /dev/vda"
+Feb 23 15:00:30 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 274864
+Feb 23 15:00:30 2526126-co44688 qemu-ga[593]: info: guest-exec called: "/bin/sh -c df -Pk /dev/vda1"
+Feb 23 15:00:31 2526126-co44688 qemu-ga[593]: info: guest-exec-status called, pid: 274866
+Feb 23 15:07:55 2526126-co44688 zabbix_agentd[699]:   699:20240223:150755.847 failed to accept an incoming connection: connection from "45.125.66.24" rejected, allowed hosts: "92.53.116.12,92.53.116.111,92.53.116.119"
+Feb 23 15:23:44 2526126-co44688 auditd[558]: Audit daemon rotating log files
+Feb 23 15:29:47 2526126-co44688 systemd[1]: Starting dnf makecache...
+Feb 23 15:29:49 2526126-co44688 dnf[275333]: CentOS Stream 8 - AppStream                     9.2 kB/s | 4.4 kB     00:00
+Feb 23 15:29:50 2526126-co44688 dnf[275333]: CentOS Stream 8 - BaseOS                        2.7 kB/s | 3.9 kB     00:01
+Feb 23 15:29:53 2526126-co44688 dnf[275333]: CentOS Stream 8 - Extras                        1.0 kB/s | 2.9 kB     00:02
+Feb 23 15:29:56 2526126-co44688 dnf[275333]: CentOS Stream 8 - Extras common packages        1.4 kB/s | 3.0 kB     00:02
+Feb 23 15:29:56 2526126-co44688 dnf[275333]: packages for the GitHub CLI                      24 kB/s | 3.0 kB     00:00
+Feb 23 15:29:56 2526126-co44688 dnf[275333]: Zabbix Agent From Timeweb                       498 kB/s | 2.9 kB     00:00
+Feb 23 15:29:58 2526126-co44688 dnf[275333]: Metadata cache created.
+Feb 23 15:29:58 2526126-co44688 systemd[1]: dnf-makecache.service: Succeeded.
+Feb 23 15:29:58 2526126-co44688 systemd[1]: Started dnf makecache.
