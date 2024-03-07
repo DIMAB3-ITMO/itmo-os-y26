@@ -11,3 +11,4 @@ ps -u root | wc -l > "$output_file"
 ps -Ao pid,command >> "$output_file"
 # From man instrucntions: To see every process with a user-defined format:
 # ps -Ao pid,tt,user,fname,tmout,f,wchan
+#-A     Select all processes.  Identical to -e.
