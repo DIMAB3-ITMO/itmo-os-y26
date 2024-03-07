@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Посчитать количество процессов, запущенных пользователем user, 
+# и вывести в файл получившееся число, 
+# а затем пары PID:команда для таких процессов.
+output_file="1_output"
+
+ps -u root | wc -l > "$output_file"
+#ps u | awk -v var="$name" '{if ($0 == var)}' | wc -l > "$output_file"
