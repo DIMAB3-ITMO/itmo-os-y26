@@ -6,4 +6,8 @@
 output_file="1_output"
 
 ps -u root | wc -l > "$output_file"
-#ps u | awk -v var="$name" '{if ($0 == var)}' | wc -l > "$output_file"
+# -l count newlines
+
+ps -Ao pid,command >> "$output_file"
+# From man instrucntions: To see every process with a user-defined format:
+# ps -Ao pid,tt,user,fname,tmout,f,wchan
