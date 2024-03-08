@@ -1,0 +1,105 @@
+1:0:/usr/lib/systemd/systemd--switched-root--system--deserialize18
+2:0:
+3:0:
+4:0:
+5:0:
+7:0:
+10:0:
+11:0:
+12:0:
+13:0:
+14:0:
+15:0:
+16:0:
+17:0:
+19:0:
+20:0:
+21:0:
+22:0:
+23:0:
+24:0:
+25:0:
+26:0:
+27:0:
+28:0:
+29:0:
+30:0:
+31:0:
+32:0:
+33:0:
+34:0:
+35:0:
+36:0:
+37:0:
+49:0:
+110:0:
+111:0:
+112:0:
+113:0:
+114:0:
+116:0:
+155:0:
+344:0:
+345:0:
+347:0:
+349:0:
+350:0:
+352:0:
+354:0:
+376:0:
+377:0:
+486:0:/usr/lib/systemd/systemd-journald
+517:0:/usr/lib/systemd/systemd-udevd
+558:0:/sbin/auditd
+560:1885:/usr/sbin/sedispatch
+592:0:/usr/sbin/mcelog--ignorenodev--daemon--foreground
+593:0:/usr/bin/qemu-ga--method=virtio-serial--path=/dev/virtio-ports/org.qemu.guest_agent.0--blacklist=-F
+595:0:/usr/bin/dbus-daemon--system--address=systemd:--nofork--nopidfile--systemd-activation--syslog-only
+597:0:/usr/sbin/smartd-n-qnever
+600:0:/usr/lib/systemd/systemd-logind
+601:0:/usr/bin/lsmd-d
+603:0:/usr/libexec/platform-python-s/usr/sbin/firewalld--nofork--nopid
+681:0:/usr/sbin/NetworkManager--no-daemon
+690:0:/usr/sbin/zabbix_agentd--foreground
+691:48009:/usr/libexec/platform-python-Es/usr/sbin/tuned-l-P
+696:2520:/usr/sbin/zabbix_agentd: collector [idle 1 sec]
+697:0:/usr/sbin/zabbix_agentd: listener #1 [waiting for connection]
+698:0:/usr/sbin/zabbix_agentd: listener #2 [waiting for connection]
+699:0:/usr/sbin/zabbix_agentd: listener #3 [waiting for connection]
+742:0:/usr/lib/polkit-1/polkitd--no-debug
+771:0:/sbin/dhclient-d-q-sf/usr/libexec/nm-dhcp-helper-pf/run/NetworkManager/dhclient-ens3.pid-lf/var/lib/NetworkManager/dhclient-21d47e65-8523-1a06-af22-6f121086f085-ens3.lease-cf/var/lib/NetworkManager/dhclient-ens3.confens3
+1060:1:/usr/sbin/sshd-D-oCiphers=aes256-gcm@openssh.com,chacha20-poly1305@openssh.com,aes256-ctr,aes256-cbc,aes128-gcm@openssh.com,aes128-ctr,aes128-cbc-oMACs=hmac-sha2-256-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha2-256,hmac-sha1,umac-128@openssh.com,hmac-sha2-512-oGSSAPIKexAlgorithms=gss-curve25519-sha256-,gss-nistp256-sha256-,gss-group14-sha256-,gss-group16-sha512-,gss-gex-sha1-,gss-group14-sha1--oKexAlgorithms=curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group14-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha1-oHostKeyAlgorithms=ecdsa-sha2-nistp256,ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521,ecdsa-sha2-nistp521-cert-v01@openssh.com,ssh-ed25519,ssh-ed25519-cert-v01@openssh.com,rsa-sha2-256,rsa-sha2-256-cert-v01@openssh.com,rsa-sha2-512,rsa-sha2-512-cert-v01@openssh.com,ssh-rsa,ssh-rsa-cert-v01@openssh.com-oPubkeyAcceptedKeyTypes=ecdsa-sha2-nistp256,ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521,ecdsa-sha2-nistp521-cert-v01@openssh.com,ssh-ed25519,ssh-ed25519-cert-v01@openssh.com,rsa-sha2-256,rsa-sha2-256-cert-v01@openssh.com,rsa-sha2-512,rsa-sha2-512-cert-v01@openssh.com,ssh-rsa,ssh-rsa-cert-v01@openssh.com-oCASignatureAlgorithms=ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519,rsa-sha2-256,rsa-sha2-512,ssh-rsa
+1140:0:/usr/sbin/crond-n
+1141:0:/usr/sbin/atd-f
+1456:0:login -- root
+1460:0:/usr/lib/systemd/systemd--user
+1463:0:(sd-pam)
+1470:0:-bash
+38766:0:
+39449:0:/usr/bin/dbus-daemon--session--address=systemd:--nofork--nopidfile--systemd-activation--syslog-only
+274437:0:/usr/sbin/rsyslogd-n
+295266:0:
+661501:0:sh/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/bin/code-server--start-server--host=127.0.0.1--accept-server-license-terms--enable-remote-auto-shutdown--port=0--telemetry-levelall--connection-token-file/root/.vscode-server/.1e790d77f81672c49be070e04474901747115651.token
+661587:86:/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/node/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/server-main.js--start-server--host=127.0.0.1--accept-server-license-terms--enable-remote-auto-shutdown--port=0--telemetry-levelall--connection-token-file/root/.vscode-server/.1e790d77f81672c49be070e04474901747115651.token
+661661:299595:/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/node/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/bootstrap-fork--type=ptyHost--logsPath/root/.vscode-server/data/logs/20240308T183437
+661883:216:/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/node--dns-result-order=ipv4first/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/bootstrap-fork--type=extensionHost--transformURIs--useHostProxy=false
+661894:0:/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/node/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/bootstrap-fork--type=fileWatcher
+662060:0:/bin/bash--init-file/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh
+662133:0:/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/node/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/markdown-language-features/server/dist/node/workerMain--node-ipc--clientProcessId=661883
+662191:0:
+676157:0:sshd: root [priv]
+676159:279:sshd: root@notty
+676160:0:bash
+676228:291:/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/node--dns-result-order=ipv4first/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/bootstrap-fork--type=extensionHost--transformURIs--useHostProxy=false
+676239:0:/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/node/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/bootstrap-fork--type=fileWatcher
+676268:0:sshd: root [priv]
+676283:0:sshd: root@notty
+676284:0:bash
+676321:1293:/root/.vscode-server/code-1e790d77f81672c49be070e04474901747115651command-shell--cli-data-dir/root/.vscode-server/cli--parent-process-id676284--on-port
+676344:0:/bin/sh
+677665:0:/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/node/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/markdown-language-features/server/dist/node/workerMain--node-ipc--clientProcessId=676228
+680182:0:/bin/bash--init-file/root/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh
+682242:0:
+715485:0:sleep180
+715508:0:sleep180
+718140:2686323:bash7.sh
