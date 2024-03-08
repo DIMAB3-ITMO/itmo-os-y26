@@ -25,4 +25,4 @@ for pid_dir in /proc/[0-9]*/; do
     done
     formatted_string="ProcessID=$pid : Parent_ProcessID=$ppid : Average_Running_Time=$art"
     echo "$formatted_string"
-done | sort -t: -nk6 > "$output_file"
+done | sort -t '=' -k3n > "$output_file"
