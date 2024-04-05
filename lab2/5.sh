@@ -5,6 +5,8 @@
 # Average_Running_Children_of_ParentID=N is M, где N = PPID, а M – среднее, 
 # посчитанное из ART для всех процессов этого родителя
 
+bash 4.sh
+
 output_file="4_output"
 
 total_time=0
@@ -17,11 +19,11 @@ while IFS= read -r line; do
     art_line=$(awk -F':' '{print $3}' <<< "$line")
     art=$(awk -F'=' '{print $2}' <<< "$art_line")
     
-    if [[ "$ppid" == "$prev_ppid" ]]; then
+    if [[ $ppid == $prev_ppid ]]; then
         total_time=$(bc <<< "$total_time + $art")
         ((count++))
     else
-        if [[ "$prev_ppid" != "" ]]; then
+        if [[ $prev_ppid != "" ]]; then
             average=$(bc -l <<< "$total_time / $count")
             sed -i -e "/$line/a \Average_Running_Children_of_ParentID=$prev_ppid is $average" "$output_file"
         fi
@@ -32,3 +34,5 @@ while IFS= read -r line; do
     fi
 
 done < "$output_file"
+
+# <<< something means echo "something" | command ....
