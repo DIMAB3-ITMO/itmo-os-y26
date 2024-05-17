@@ -45,4 +45,4 @@ ln "$realpath_file" "$hard_link" || { echo "Error creating hard link."; exit 1; 
 
 rm "$realpath_file" || { echo "Error removing file."; exit 1; }
 
-echo "Original file: $realpath_file, Hard link: $hard_link" >> "$log_file" || { echo "Error writing to log file."; exit 1; }
+echo "$realpath_file | $hard_link" >> "$log_file" || { echo "Error writing to log file."; exit 1; }
