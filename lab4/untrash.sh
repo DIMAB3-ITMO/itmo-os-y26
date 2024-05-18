@@ -21,7 +21,8 @@ if [ ! -f "$log_file" ]; then
 fi
 
 # mapfile is mapfile [-d delim] [-n count] [-O origin] [-s count] [-t] [-u fd] [-C callback] [-c quantum] [array] (-t remove trailing newline sign)
-mapfile -t entries < <(grep -E ".*$filename.*" "$log_file")
+realpath_file=$(realpath "$filename")
+mapfile -t entries < <(grep -F -e "$filename" "$log_file")
 
 if [ -z "$entries" ]; then
     echo "No entries found for file '$filename'."

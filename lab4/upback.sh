@@ -26,5 +26,17 @@ fi
 for file in "$backup_dir/$backup_dir_name"/*; do
     pure_filename=$(basename $file)
 
-    cp "$file" "$restore_dir/"
+    if [[ $pure_filename == *.* ]]; then
+        versioned_date=$(echo "$pure_filename" | grep -oP '\d{4}-\d{2}-\d{2}$')
+        
+        if [[ $versioned_date ]]; then
+            echo "Skipping versioned file: $pure_filename"
+        else
+            echo "Copying regular file: $pure_filename"
+            cp "$file" "$restore_dir/"
+        fi
+    else
+        echo "Copying regular file: $pure_filename"
+        cp "$file" "$restore_dir/"
+    fi
 done
