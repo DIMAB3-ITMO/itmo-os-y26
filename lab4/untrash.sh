@@ -45,18 +45,20 @@ create_hard_link () {
 }
 
 for line in "${entries[@]}"; do
-    original_file=$(echo "$line" | awk -F '|' '{print $1}' | sed 's/^[[:space:]]*//') # to delete first space: s/regexp/replacement/
-    hard_link=$(echo "$line" | awk -F '|' '{print $2}' | sed 's/^[[:space:]]*//') # to delte first space: s/regexp/replacement/
+    # original_file=$(echo "$line" | awk -F '|' '{print $1}' | sed "s/^'//" | sed "s/'$//")
+    # hard_link=$(echo "$line" | awk -F '|' '{print $2}' | sed "s/^'//" | sed "s/'$//")
+
+    original_file=$(echo "$line" | cut -d'|' -f1 | tr -d "'")
+    hard_link=$(echo "$line" | cut -d'|' -f2 | tr -d "'")
 
     echo "Original file: $original_file"
     echo "Hard link: $hard_link"
 
-    read -p "Restore file '$original_file'? (y/n) " -n 1 -r
+    read -p "Restore file $original_file ? (y/n) " -n 1 -r
     echo
 
     if [[ $REPLY =~ ^[Yy]$ ]]; then
         original_dir=$(dirname "$original_file")
-        echo "orig dir: $original_dir"
         if [ ! -d "$original_dir" ]; then
             echo "Original directory '$original_dir' does not exist. Restoring to home directory."
             original_file="$home_dir/$(basename "$original_file")"
@@ -66,6 +68,6 @@ for line in "${entries[@]}"; do
             echo "Error was occured, while restoring file."
         done
 
-        sed -i "/^${line//\//\\/}/d" "$log_file" # escape any forward slashes (/) 
+        sed -i "/$line/d" "$log_file"
     fi
 done

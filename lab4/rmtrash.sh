@@ -25,7 +25,10 @@ log_file="$home_dir/.trash/trash.log"
 
 script_dir=$(dirname "$0")
 script_parent_dir=$(dirname "$script_dir")
-found_file=$(find "$script_parent_dir" -type f -name "*$filename*" -print -quit)
+
+found_file=("$script_parent_dir"/*"$filename"*)
+
+echo "found file: $found_file"
 
 if [ ! -n "$found_file" ]; then
     echo "File '$filename' not found in the current directory."
@@ -39,10 +42,13 @@ fi
 
 touch "$log_file"
 hard_link="$trash_dir/$filename-$(date +%s)"
+echo "$hard_link"
 
 realpath_file=$(realpath "$found_file")
+echo "$realpath_file"
+
 ln "$realpath_file" "$hard_link" || { echo "Error creating hard link."; exit 1; }
 
 rm "$realpath_file" || { echo "Error removing file."; exit 1; }
 
-echo "$realpath_file | $hard_link" >> "$log_file" || { echo "Error writing to log file."; exit 1; }
+echo "'$realpath_file'|'$hard_link'" >> "$log_file" || { echo "Error writing to log file."; exit 1; }

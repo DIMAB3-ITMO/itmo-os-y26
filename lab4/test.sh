@@ -1,6 +1,10 @@
 #!/bin/bash
 
-string="root/dimon/limon.sh"
-base=$(basename "$string")
+filename=$1
 
-echo "$base"
+script_dir=$(dirname "$0")
+script_parent_dir=$(dirname "$script_dir")
+
+found_file=("$script_parent_dir"/*"$filename"*)
+
+echo "$found_file"

@@ -5,19 +5,15 @@ source_dir=/home/user/source
 backup_dir=/home/user
 
 current_date=$(date +%Y-%m-%d)
-# Check if a backup directory for the current date exists
 if [ ! -d "$backup_dir/Backup-$current_date" ]; then
-    # Check if a backup directory for the last 7 days exists
     for ((i=1; i<=7; i++)); do
         last_date=$(date -d "-$i days" +%Y-%m-%d) # is used to calculate the date for a specific number of days in the past
         if [ -d "$backup_dir/Backup-$last_date" ]; then
-            # If a backup directory for the last 7 days exists, use it
             backup_dir_name="Backup-$last_date"
             break
         fi
     done
 
-    # If no backup directory for the last 7 days exists, create new
     if [ -z "$backup_dir_name" ]; then
         backup_dir_name="Backup-$current_date"
         mkdir "$backup_dir/$backup_dir_name"
