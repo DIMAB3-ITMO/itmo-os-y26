@@ -2,6 +2,7 @@
 echo "total,free,used,buff" > "csvs/mem.csv"
 echo "total,free,used,avail_mem" > "csvs/swap.csv"
 echo "pid,user,pr,ni,virt,res,shr,s,cpu,mem,time,command" > "csvs/process_info.csv"
+echo "first_pid,first_mem,second_pid,second_mem,third_pid,third_mem,fourth_pid,fourth_mem,fifth_pid,fifth_mem" > "csvs/top5.csv"
 
 echo "info from MiB Mem line" > "help_raws/mem_line.txt"
 echo "info from MiB Swap line" > "help_raws/swap_line.txt"
@@ -16,6 +17,8 @@ while true; do
         echo "$top_output" | grep -w "MiB Mem" > "help_raws/mem_line.txt"
         echo "$top_output" | grep -w "MiB Swap" > "help_raws/swap_line.txt"
         echo "$top_output" | grep -w "$pid root" > "help_raws/process_line.txt"
+
+        echo $(echo "$top_output" | head -n 12 | tail -n 5 | awk '{printf "%s,%s,", $1, $10}' | sed 's/,$//') >> "csvs/top5.csv"
 
         cat "help_raws/mem_line.txt" | awk '{print $4","$6","$8","$10}' >> "csvs/mem.csv"
         cat "help_raws/swap_line.txt" | awk '{print $3","$5","$7","$9}' >> "csvs/swap.csv"

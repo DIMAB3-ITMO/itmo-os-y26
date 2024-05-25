@@ -16,7 +16,7 @@ while true; do
     step=$((step+1))
     if [ $step -eq "100000" ]; then # 100000
         step=0
-        echo "${#array[@]}" >> "report.log" 
+        echo "${#array[@]}" >> "report.log"
     fi
 
     # sleep 1

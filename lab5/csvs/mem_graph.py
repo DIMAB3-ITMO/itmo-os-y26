@@ -1,9 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
 
 df = pd.read_csv('csvs/mem.csv')
 
-iterations = range(1, len(df) + 1)
+iterations = np.arange(1.0, len(df) + 1, dtype=float)
 
 total = df['total']
 free = df['free']
