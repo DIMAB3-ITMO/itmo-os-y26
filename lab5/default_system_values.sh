@@ -2,10 +2,10 @@
 report_file="lab5_report.md"
 
 page_size=$(getconf PAGE_SIZE)
-total_mem=$(free -h | grep "Mem:" | awk '{print $2}')
-free_mem=$(free -h | grep "Mem:" | awk '{print $4}')
-swap_total_mem=$(free -h | grep "Swap:" | awk '{print $2}')
-swap_free_mem=$(free -h | grep "Swap:" | awk '{print $4}')
+total_mem=$(free | grep "Mem:" | awk '{print $2}')
+free_mem=$(free | grep "Mem:" | awk '{print $4}')
+swap_total_mem=$(free | grep "Swap:" | awk '{print $2}')
+swap_free_mem=$(free | grep "Swap:" | awk '{print $4}')
 
 echo "Общий объем оперативной памяти: $total_mem" > "$report_file"
 echo "Объем раздела подкачки: $swap_total_mem" >> "$report_file"

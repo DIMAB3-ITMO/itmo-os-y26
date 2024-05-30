@@ -1,1 +1,0 @@
-MiB Swap:   1024.0 total,      0.0 free,   1024.0 used.      

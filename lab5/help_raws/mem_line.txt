@@ -1,1 +1,0 @@
-MiB Mem :    770.7 total,     41.6 free,    690.1 used,     3
